@@ -17,7 +17,7 @@
 
 ## Texto documental
 
-SÚMULA Nº 14 (ELEITORAL - 2016) 
+SÚMULA Nº 14 (ELEITORAL - 2016)
 
 O Procurador-Geral do Município, no uso das atribuições que lhe confere o artigo 114 da Lei Orgânica, artigos 14 e 15, inciso II, da Lei Municipal nº 9.011, de 1º de janeiro de 2005, no art. 3º e art. 4º do Decreto Municipal nº 15.256, de 05 de julho de 2013, RESOLVE editar a presente súmula:
 
@@ -33,6 +33,6 @@ Resolução TSE nº 23.450/2015 (Calendário Eleitoral para as Eleições 2016).
 
 Precedentes: TSE – Representação nº 425109 – Relatora: Fátima Nancy Andrighi, DJ 25/04/2012; TSE – Representação nº 326.725 – Relator: Marcelo Henriques Ribeiro de Oliveira, Acórdão de 29/03/2012; Recurso Especial Eleitoral nº 93.887 – Relator: Arnaldo Versiani – DJ 25/08/2011; TSE, Agravo Regimental no Recurso Especial Eleitoral nº 1839-71.2011.6.00.0000, Relatora: Nancy Andrighi, julgamento em 29/03/2012).
 
-Rúsvel Beltrame 
+Rúsvel Beltrame
 
 Procurador-Geral do Município

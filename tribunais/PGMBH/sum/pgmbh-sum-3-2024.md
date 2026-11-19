@@ -18,7 +18,7 @@
 
 ## Texto documental
 
-SÚMULA Nº 03/2024 
+SÚMULA Nº 03/2024
 
 O Procurador-Geral do Município de Belo Horizonte, no uso das atribuições que lhe confere o art. 114 da Lei Orgânica, o inciso I do art. 58, nos arts. 59 e 123 da Lei Municipal nº 11.065, de 1º de agosto de 2017, o art. 2º do Decreto Municipal nº 18.373, de 7 de julho de 2023,
 
@@ -36,6 +36,6 @@ Resolve editar a Súmula da Procuradoria-Geral do Município:
 
 Belo Horizonte, 20 de agosto de 2024
 
-Hércules Guerra 
+Hércules Guerra
 
 Procurador-Geral do Município

@@ -17,26 +17,26 @@
 
 ## Texto documental
 
-SÚMULA Nº 02/2023 
+SÚMULA Nº 02/2023
 
-O Procurador-Geral do Município de Belo Horizonte, no uso das atribuições que lhe confere o art. 114 da Lei Orgânica, o inciso I do art. 58, nos arts. 59 e 123 da Lei Municipal nº 11.065, de 1º de agosto de 2017, o art. 2º do Decreto Municipal nº 18.373, de 7 de julho de 2023 e, 
+O Procurador-Geral do Município de Belo Horizonte, no uso das atribuições que lhe confere o art. 114 da Lei Orgânica, o inciso I do art. 58, nos arts. 59 e 123 da Lei Municipal nº 11.065, de 1º de agosto de 2017, o art. 2º do Decreto Municipal nº 18.373, de 7 de julho de 2023 e,
 
-Considerando a grande demanda dos casos de Inexigibilidade que podem ser enquadrados na hipótese de Dispensa de Licitação, em razão do valor, esta Procuradoria-Geral, resolve editar a súmula: 
+Considerando a grande demanda dos casos de Inexigibilidade que podem ser enquadrados na hipótese de Dispensa de Licitação, em razão do valor, esta Procuradoria-Geral, resolve editar a súmula:
 
-“ Nos casos em que as contratações da Administração Pública se enquadrem nas hipóteses de Inexigibilidade de Licitação previstas no art. 74 da Lei nº 14.133/21, poderá a Administração Pública, diante do interesse público e do seu poder discricionário, proceder à contratação pela modalidade Dispensa de Licitação, em virtude do valor, nos moldes dos incisos I e II do art. 75 da Lei Federal nº 14.133/21, por ser o procedimento mais célere e menos oneroso, desde que devidamente justificado. 
+“ Nos casos em que as contratações da Administração Pública se enquadrem nas hipóteses de Inexigibilidade de Licitação previstas no art. 74 da Lei nº 14.133/21, poderá a Administração Pública, diante do interesse público e do seu poder discricionário, proceder à contratação pela modalidade Dispensa de Licitação, em virtude do valor, nos moldes dos incisos I e II do art. 75 da Lei Federal nº 14.133/21, por ser o procedimento mais célere e menos oneroso, desde que devidamente justificado.
 
-Caso a escolha seja pela modalidade Dispensa, em razão do valor, com fulcro nos incisos I e II do art. 75 da Lei Federal nº 14.133/21, e haja necessidade de prorrogação dos contratos em questão, esta só será efetivada se o valor limite para contratação por dispensa não for ultrapassado, independente do serviço contratado ser contínuo ou não.” 
+Caso a escolha seja pela modalidade Dispensa, em razão do valor, com fulcro nos incisos I e II do art. 75 da Lei Federal nº 14.133/21, e haja necessidade de prorrogação dos contratos em questão, esta só será efetivada se o valor limite para contratação por dispensa não for ultrapassado, independente do serviço contratado ser contínuo ou não.”
 
-Fica revogada a Súmula nº 07, de 07 de agosto de 2014, da Procuradoria-Geral do Município. 
+Fica revogada a Súmula nº 07, de 07 de agosto de 2014, da Procuradoria-Geral do Município.
 
-Fundamentação: 
+Fundamentação:
 
-Art. 37, inciso XXI da Constituição da República 
+Art. 37, inciso XXI da Constituição da República
 
-Art. 74 da Lei Federal nº 14.133, de 1 de abril 2021 
+Art. 74 da Lei Federal nº 14.133, de 1 de abril 2021
 
-Art. 75, incisos I e II da Lei Federal nº 14.133, de 01 de abril de 2021 
+Art. 75, incisos I e II da Lei Federal nº 14.133, de 01 de abril de 2021
 
-Hércules Guerra 
+Hércules Guerra
 
 Procurador-Geral do Município

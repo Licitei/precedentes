@@ -18,20 +18,20 @@
 
 ## Texto documental
 
-SÚMULA Nº 2 (ELEITORAL – 2018) 
+SÚMULA Nº 2 (ELEITORAL – 2018)
 
 O Procurador Geral do Município, no uso das atribuições que lhe confere o art. 114 da Lei Orgânica; o art. 59, inciso I, da Lei Municipal n.º 11.065, de 1º de agosto de 2017; os arts. 3º e 4º do Decreto Municipal n.º 15.256, de 5 de julho de 2013; RESOLVE editar a presente súmula:
 
 “O art. 73, I, da Lei das Eleições (Lei 9.504/97) dispõe sobre a vedação de uso de bens públicos em benefício de candidato, partido ou coligação. Assim, nos termos preconizados na legislação Eleitoral, bem como nos precedentes judiciais afetos à matéria, fica vedado o uso do email institucional da Prefeitura de Belo Horizonte (CorreioWeb) para fins eleitorais”.
 
-Legislação: 
+Legislação:
 
-Lei Federal nº 9.504/97, art. 73, I. 
+Lei Federal nº 9.504/97, art. 73, I.
 
 Resolução TSE nº 23.555/2017 (Calendário Eleitoral para as Eleições 2018)
 
 Precedentes: TSE – Representação nº 425109 – Relatora: Fátima Nancy Andrighi, DJ 25/04/2012; TSE - Representação nº 326.725 – Relator: Marcelo Henriques Ribeiro de Oliveira, Acórdão de 29/03/2012; Recurso Especial Eleitoral nº 93.887 – Relator: Arnaldo Versiani – DJ 25.08.2011; TSE, Agravo Regimental no Recurso Especial Eleitoral nº 1839-71.2011.6.00.0000, Relatora: Nancy Andrighi, julgamento em 29/03/2012).
 
-Tomáz de Aquino Resende 
+Tomáz de Aquino Resende
 
 Procurador-Geral do Município
