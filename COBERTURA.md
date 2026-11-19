@@ -1,8 +1,8 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 44.232 IDs únicos em 222 órgãos, sem duplicatas (19/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 44.263 IDs únicos em 223 órgãos, sem duplicatas (19/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1255 IDs e +35 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/Licitei/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1286 IDs e +36 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## CFOAB — súmulas do Conselho Pleno e do Órgão Especial
 
@@ -29,6 +29,16 @@ As duas capturas de cada PDF, em 19/11/2026, coincidem em bytes e SHA-256. O PDF
 A página oficial do CFC publica o PDF “Ementas Súmulas atualizadas-2022-1.pdf”, com 16 identidades, de 1 a 16, e não 11. As nºs 1 a 5, 7, 9, 11 e 12 estão marcadas “REVOGADA” na coluna da ementa; as nºs 6 (R1), 8, 10 (R1), 13 (R1), 14, 15 e 16 trazem ementa. As datas de aprovação e de revogação são as da tabela; as nºs 11 e 12 têm revogação em 17/03/2022, e as nºs 6 (R1), 10 (R1), 13 (R1), 15 e 16 têm aprovação na mesma data. A contagem de 11 do inventário da issue #563 não corresponde ao PDF consultado; a divergência fica registrada e prevalece a leitura da fonte oficial.
 
 As súmulas revogadas não têm texto na fonte; não houve reconstrução. As ementas preservam as referências ao Decreto-Lei nº 9.295/46, inclusive “Decreto-lei”, “DL n.” e “n.º”. O PDF não indica ato de aprovação, DOU ou processo. Duas capturas do PDF em 19/11/2026 coincidem em bytes e SHA-256. O lote soma **16 registros e um órgão**; resoluções, NBCs e orientações técnicas do CFC permanecem fora.
+
+## MPTO — súmulas, enunciados e assentos do CSMP e enunciado do CPJ
+
+O MPTO entra como órgão próprio, distinto do TJTO, do TCE-TO e dos demais Ministérios Públicos. São 31 identidades em quatro séries: 17 súmulas do Conselho Superior, 10 enunciados do Conselho Superior, três assentos do Conselho Superior e um enunciado do Colégio de Procuradores. O catálogo de Atos e Normas foi consultado em 19/11/2026; as 14 linhas de catálogo correspondem a 31 atos, porque três arquivos reúnem mais de uma identidade e a redação revisada da Súmula 003/2013 não cria novo número.
+
+As súmulas 001 a 010/2013 vêm de uma coletânea de sete páginas; a 011/2016, de arquivo próprio; a 003/2013 tem a redação original e a revisada na 161ª Sessão Ordinária (18/11/2015) no mesmo registro; as 012 a 017/2017 vêm de um PDF de quatro páginas digitalizadas. Os enunciados 1 a 5/2022 vêm de um único PDF; os 6/2024 a 9/2024, de páginas do DOMP/TO (edições 1844, 1870 e 2029); o 10/2026, da edição 2408. Os assentos 001/2018 e 002/2018 foram aprovados na 189ª Sessão Ordinária (24/04/2018); o 001/2016 é digitalização de uma página. O enunciado do CPJ 001/2011 não se funde com a série do CSMP.
+
+Cada PDF foi baixado duas vezes, com pares HTTP 200 de bytes e SHA-256 idênticos; as quatro páginas de catálogo também coincidiram. O acesso por cliente HTTP simples recebeu 403; as capturas foram feitas em Chromium local, sem resolver desafio ou CAPTCHA. Cinco páginas físicas não têm camada de texto de corpo: as quatro das Súmulas 012 a 017/2017 e a do Assento 001/2016. Sete fichas as marcam como pendentes, sem leitura visual nem OCR; não se atribui página a número por inferência. A ligadura “fi” mapeada para caractere de uso privado nos enunciados de 2024 foi reproduzida como “fi”, sem alteração de palavra.
+
+O lote soma **31 registros e um órgão**. Sobre a base de 19/11/2026, 44.151 IDs em 220 órgãos, o total esperado é **44.182 IDs em 221 órgãos**. Não se inferem vigência, vinculação, revogação ou exaustividade; normas, processos e precedentes citados não receberam IDs. Capturas, PDFs e extrações permanecem privados; público apenas Markdown.
 
 ## ANPD — Enunciado CD/ANPD nº 1/2023
 
