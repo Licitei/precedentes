@@ -40,4 +40,16 @@ Precedentes:
 
 [0069100-52.2009.5.04.0014 (AP)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/et5it-jsiEKY5e2UWqTkAQ)
 
+## Texto do ato vinculado — Resolução nº 01/2017
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/883100/ResoluAcAaoSEEx_1_2017.pdf) — captura HTTP 200 em 19/11/2026; 53052 bytes; SHA-256 `786fdd35f994a931a7f4e824df42d57b08f8f0e4fb4a0cf27bd2f9ebaad7271f`.
+
+RESOLUÇÃO Nº 01/2017
+
+CERTIFICO que a Seção Especializada em Execução do Tribunal Regional do Trabalho da 4ª Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária realizada nesta data, resolveu, por unanimidade de votos, cancelar a ORIENTAÇÃO JURISPRUDENCIAL Nº 01 transitória – Atualização Monetária dos Débitos Trabalhistas.
+
+Tomaram parte na sessão os Exmos. Desembargadores Cleusa Regina Halfen, Vania Mattos, Rejane Souza Pedra, Lucia Ehrenbrink, João Batista de Matos Danda e o Exmo. Juiz convocado Manuel Cid Jardon, sob a presidência do Exmo. Desembargador João Alfredo Borges Antunes de Miranda. Presente pelo Ministério Público do Trabalho a Dra. Denise Maria Schellenberger Fernandes. Dou fé. Porto Alegre, 20 de junho de 2017. Márcia Lamberti Doval, Secretária da Seção Especializada em Execução.
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -36,4 +36,16 @@ Precedentes:
 
 [0008700-38.2006.5.04.0512 (AP)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/g3DglFhNTkIeESdlZOn4RQ)
 
+## Texto do ato vinculado — RESOLUÇÃO Nº 20/2017
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/908120/ResoluAcAao_20-2017.pdf) — captura HTTP 200 em 19/11/2026; 14132 bytes; SHA-256 `ee67071e79f49c5a7d6fc470ca404107c97b850f4b227b8d7120591ed19f52ae`.
+
+RESOLUÇÃO Nº 20/2017
+
+CERTIFICO que a Seção Especializada em Execução do Tribunal Regional do Trabalho da 4ª Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária realizada nesta data, resolveu, por unanimidade de votos, cancelar a ORIENTAÇÃO JURISPRUDENCIAL Nº 45.
+
+Tomaram parte na sessão os Exmos. Desembargadores Cleusa Regina Halfen, Ana Rosa Pereira Zago Sagrilo, Rejane Souza Pedra, Lucia Ehrenbrink, João Batista de Matos Danda e o Exmo. Juiz convocado Manuel Cid Jardon, sob a presidência do Exmo. Desembargador João Alfredo Borges Antunes de Miranda. Presente pelo Ministério Público do Trabalho o Dr. Luiz Fernando Mathias Vilar. Dou fé. Porto Alegre, 07 de novembro de 2017. Márcia Lamberti Doval, Secretária da Seção Especializada em Execução. :
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -65,4 +65,34 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Texto do ato vinculado — Resolução Administrativa n° 05/2025
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/1065118/RA%2005-2025%20-%20CANCELA%20SUMULA%2043%20TRT.pdf) — captura HTTP 200 em 19/11/2026; 60655 bytes; SHA-256 `536b50b342c2406d83decb4a5b50b4bf8a5bb245760c2f2a191a5ccd6efb9db3`.
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO
+
+RESOLUÇÃO ADMINISTRATIVA Nº 05/2025
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO, na sessão extraordinária e plenária realizada nesta data, no uso de suas atribuições legais e regimentais, RESOLVE, por unanimidade, CANCELAR a Súmula nº 43 deste Tribunal, aprovada pela Resolução Administrativa nº 11/2006.
+
+Tomaram parte na sessão os Exmos. Desembargadores Rosane Serafini Casa Nova, Ana Luiza Heineck Kruse, Cleusa Regina Halfen, Ricardo Carvalho Fraga, João Pedro Silvestrin, Luiz Alberto de Vargas, Beatriz Renck, Maria Cristina Schaan Ferreira, Cláudio Antônio Cassou Barbosa, Carmen Izabel Centena Gonzalez, Emílio Papaléo Zin, Denise Pacheco, Clóvis Fernando Schuch Santos, Maria da Graça Ribeiro Centeno, Marçal Henri dos Santos Figueiredo, Rejane Souza Pedra, Wilson Carvalho Dias, Francisco Rossal de Araújo, Marcelo Gonçalves de Oliveira, Lucia Ehrenbrink, Laís Helena Jaeger Nicotti, Marcelo José Ferlin D’Ambroso, Gilberto Souza dos Santos, Raul Zoratto Sanvicente, André Reverbel Fernandes, João Paulo Lucena, Fernando Luiz de Moura Cassal, Brígida Joaquina Charão Barcelos, João Batista de Matos Danda, Fabiano Holz Beserra, Angela Rosi Almeida Chapper, Janney Camargo Bina, Marcos Fagundes Salomão, Manuel Cid Jardon, Roger Ballejo Villarinho, Simone Maria Nunes, Maria Silvana Rotta Tedesco, Rosiul de Freitas Azambuja, Carlos Alberto May e Luis Carlos Pinto Gastal, sob a presidência do Exmo. Desembargador Ricardo Hofmeister de Almeida Martins Costa, Presidente deste Tribunal. Presente pelo Ministério Público do Trabalho Dra. Denise Maria Schellenberguer Fernandes. Porto Alegre, 24 de março de 2025.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial e da SDC
+
+CERTIDÃO
+
+CERTIFICO que a presente Resolução Administrativa, disponibilizada no DEJT dos dias 25.03.2025, 26.03.2025 e 27.03.2025 é considerada publicada nos dias 26.03.2025, 27.03.2025 e 28.03.2025. Dou fé. Em 28 de março de 2025.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial e da SDC
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

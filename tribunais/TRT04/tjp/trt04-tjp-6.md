@@ -36,4 +36,34 @@ Precedentes:
 
 [0001447-38.2011.5.04.0701 (RO)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/R3UsyuHY_Y1EBEJ0RPXKNQ)
 
+## Texto do ato vinculado — Resolução Administrativa nº 45/2025
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/1065615/RA%2045-2025%20.pdf) — captura HTTP 200 em 19/11/2026; 140956 bytes; SHA-256 `1696bbcc01dc470c1c0a4f76bbbaa875e0af436c92b19c8f913f42ed02ab661a`.
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO
+
+RESOLUÇÃO ADMINISTRATIVA Nº 45/2025
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO, na sessão extraordinária e plenária realizada nesta data, no uso de suas atribuições legais e regimentais, RESOLVE, por unanimidade, CANCELAR a Tese Jurídica Prevalecente nº 6 deste Tribunal, aprovada pela Resolução Administrativa nº 69/2016.
+
+Tomaram parte na sessão os Exmos. Desembargadores Rosane Serafini Casa Nova, João Alfredo Borges Antunes de Miranda, Cleusa Regina Halfen, Ricardo Carvalho Fraga, Luiz Alberto de Vargas, Beatriz Renck, Maria Cristina Schaan Ferreira, Cláudio Antônio Cassou Barbosa, Carmen Izabel Centena Gonzalez, Emílio Papaléo Zin, Vania Maria Cunha Mattos, Denise Pacheco, Alexandre Corrêa da Cruz, Clóvis Fernando Schuch Santos, Maria da Graça Ribeiro Centeno, Marçal Henri dos Santos Figueiredo, Wilson Carvalho Dias, Francisco Rossal de Araújo, Marcelo Gonçalves de Oliveira, Lucia Ehrenbrink, Laís Helena Jaeger Nicotti, Marcelo José Ferlin D’Ambroso, Gilberto Souza dos Santos, Raul Zoratto Sanvicente, André Reverbel Fernandes, João Paulo Lucena, Fernando Luiz de Moura Cassal, Brígida Joaquina Charão Barcelos, João Batista de Matos Danda, Fabiano Holz Beserra, Janney Camargo Bina, Marcos Fagundes Salomão, Roger Ballejo Villarinho, Simone Maria Nunes, Maria Silvana Rotta Tedesco, Rosiul de Freitas Azambuja, Carlos Alberto May e Luis Carlos Pinto Gastal, sob a presidência do Exmo. Desembargador Ricardo Hofmeister de Almeida Martins Costa, Presidente deste Tribunal. Presente pelo Ministério Público do Trabalho Dr. Anderson de Mello Reichow. Porto Alegre, 13 de outubro de 2025.-.-.-.-.-.-.-.-.-.-.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial, SEJAI e SDC
+
+CERTIDÃO
+
+CERTIFICO que a presente Resolução Administrativa, disponibilizada no DEJT dos dias 14.10.2025, 15.10.2025 e 16.10.2025 é considerada publicada nos dias 15.10.2025, 16.10.2025 e 17.10.2025. Dou fé. Em 17 de outubro de 2025.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial, SEJAI e SDC
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -52,4 +52,28 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Texto do ato vinculado — RESOLUÇÃO ADMINISTRATIVA Nº 22/2024
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/1064538/RA%2022-2024%20-%20CANCELA%20SUMULA%20142%20TRT4%20%281%29.pdf) — captura HTTP 200 em 19/11/2026; 53196 bytes; SHA-256 `71ac4820f1b14289eac93d7ba74f9862ddcd68284a717f27e08d576b1edbd517`.
+
+RESOLUÇÃO ADMINISTRATIVA Nº 22/2024
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO, na sessão extraordinária e plenária realizada nesta data, no uso de suas atribuições legais e regimentais, RESOLVE, por maioria, vencido o Exmº Desembargador Marcelo José Ferlin D’Ambroso, CANCELAR a Súmula nº 142 deste Tribunal, aprovada pela Resolução Administrativa nº 34/2018.
+
+Tomaram parte na sessão os Exmos. Desembargadores Rosane Serafini Casa Nova, João Alfredo Borges Antunes de Miranda, Ana Luiza Heineck Kruse, Cleusa Regina Halfen, Ricardo Carvalho Fraga, Luiz Alberto de Vargas, Beatriz Renck, Maria Cristina Schaan Ferreira, Cláudio Antônio Cassou Barbosa, Carmen Izabel Centena Gonzales, Emílio Papaléo Zin, Vania Cunha Mattos, Alexandre Corrêa da Cruz, Clóvis Fernando Schuch Santos, Maria da Graça Ribeiro Centeno, Marçal Henri dos Santos Figueiredo, Rejane Souza Pedra, Wilson Carvalho Dias, Francisco Rossal de Araújo, Marcelo Gonçalves de Oliveira, Lucia Ehrenbrink, Tânia Regina Silva Reckziegel, Laís Helena Jaeger Nicotti, Marcelo José Ferlin D’Ambroso, André Reverbel Fernandes, João Paulo Lucena, Fernando Luiz de Moura Cassal, João Batista de Matos Danda, Fabiano Holz Beserra, Angela Rosi Almeida Chapper, Manuel Cid Jardon, Roger Ballejo Villarinho, Simone Maria Nunes, Maria Silvana Rotta Tedesco, Carlos Alberto May, Luciane Cardoso Barzotto e Luis Carlos Pinto Gastal, sob a presidência do Exmo. Desembargador Ricardo Hofmeister de Almeida Martins Costa, Presidente deste Tribunal. Presente pelo Ministério Público do Trabalho a Dra. Denise Maria Schellenberger Fernandes. Porto Alegre, 26 de agosto de 2024.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial e da SDC
+
+CERTIDÃO
+
+CERTIFICO que a presente Resolução Administrativa foi disponibilizada no DEJT dos dias 27, 28 e 29 de agosto de 2024, considerada publicada nos dias 28, 29 e 30 de agosto de 2024. Dou fé. Em 30 de agosto de 2024.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial e da SDC
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

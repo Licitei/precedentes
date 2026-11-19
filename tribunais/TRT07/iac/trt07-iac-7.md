@@ -24,4 +24,8 @@ IAC 0004180-68.2025.5.07.0000- O Termo de Ajustamento de Conduta (TAC) no 47/200
 
 [TRT7 — Teses Firmadas em IAC](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/teses-firmadas-em-iac) (página atualizada em 05/10/2026). A tese nº 0007 e o precedente 0004180-68.2025.5.07.0000 coincidem com o texto acima; a apresentação do BNP permanece atribuída à fonte BNP.
 
+## Nota de reconsulta do BNP — 19/11/2026
+
+Na reconsulta do Pangea/BNP em 19/11/2026, o registro mantém a atualização 16/10/2026 e a situação “Acórdão Publicado (Recurso de Revista Pendente)”, e passou a exibir inserido no campo da tese o trecho “Acórdão publicado em 05/02/2026 . Encerrada. ” no meio da frase (“...até o marco temporal da superveniência Acórdão publicado em 05/02/2026 . Encerrada. do regime jurídico único...”), ausente do texto transcrito acima. A diferença de exibição fica registrada sem alterar o texto da ficha; a data do trecho não foi conciliada com as datas do catálogo próprio nem com a publicação indicada na linha do precedente, e nada se infere sobre vigência.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
