@@ -37,6 +37,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [CRPS](CRPS/) | 19 |
 | [CRSFN](CRSFN/) | 6 |
 | [CRSNSP](CRSNSP/) | 11 |
+| [CVM](CVM/) | 41 |
 | [ENFAM](ENFAM/) | 62 |
 | [FONACOM](FONACOM/) | 76 |
 | [FONACON](FONACON/) | 18 |
