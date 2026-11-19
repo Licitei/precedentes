@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 004/2005
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-004-2005`
 - **Número impresso:** 004/2005
 - **Processo impresso:** 04104755-9 (impresso "N0.")
 - **Origem ou interessado na identificação impressa:** Origem: SEFAZ
+- **Fonte:** [PARECER NORMATIVO Nº 004/05](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No004-2005.pdf)
 
 ## Identidade e limites
 

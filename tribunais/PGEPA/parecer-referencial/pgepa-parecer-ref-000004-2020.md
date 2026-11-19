@@ -7,6 +7,7 @@
 - **Interessado:** Estado do Pará
 - **Procedência impressa:** Gabinete da Procuradoria-Geral do Estado (PGA-A)
 - **Identificador:** `pgepa-parecer-ref-000004-2020`
+- **Fonte:** [PDF oficial](https://www.pge.pa.gov.br/sites/default/files/pareceres-referenciais/pr_000004_2020_carla.pdf)
 
 ## Fonte e conferência
 

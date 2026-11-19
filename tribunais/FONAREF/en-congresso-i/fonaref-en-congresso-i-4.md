@@ -1,5 +1,7 @@
 # FONAREF — I Congresso, enunciado 4
 
+- **Órgão:** Fórum Nacional de Recuperação Empresarial e Falências (FONAREF)
+- **Espécie:** Enunciado
 - **Série:** I Congresso do Fórum Nacional de Recuperação Empresarial e Falências (FONAREF)
 - **Enunciado:** 4
 - **Identificador:** `fonaref-en-congresso-i-4`

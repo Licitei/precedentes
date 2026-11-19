@@ -1,5 +1,6 @@
 # PGEMT · Parecer normativo — prorrogação de prazo de Convênios (OJN 002/CPPGE/2020)
 
+- **Órgão:** PGEMT
 - **Espécie:** Parecer normativo (suporte da OJN)
 - **Identificador:** `pgemt-parecer-ref-ojn-002-2020`
 - **Fonte documental:** [PDF portal PGE](https://www.pge.mt.gov.br/documents/4416107/13889635/PARECER_OJ+002.pdf/6cfb545e-9011-694e-12b9-2726f5f8e851)

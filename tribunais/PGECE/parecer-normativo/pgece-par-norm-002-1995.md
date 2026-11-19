@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 002/95
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-002-1995`
 - **Número impresso:** 002/95
 - **Processo impresso:** 3478/93
 - **Origem ou interessado na identificação impressa:** Origem: Secretaria da Administração
+- **Fonte:** [PARECER NORMATIVO Nº 002/95 (ORIGEM: SECRETARIA DA ADMINISTRAÇÃO)](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No-002-1995.pdf)
 
 ## Identidade e limites
 

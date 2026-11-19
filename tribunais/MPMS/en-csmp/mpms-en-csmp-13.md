@@ -1,6 +1,7 @@
 # MPMS · Enunciado CSMP 13
 
 - **Órgão:** Ministério Público do Estado de Mato Grosso do Sul (MPMS)
+- **Espécie:** Enunciado
 - **Emissor:** Conselho Superior do Ministério Público
 - **Identificador:** `mpms-en-csmp-13`
 - **Número na ficha:** 0013/2017

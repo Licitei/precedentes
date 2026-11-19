@@ -1,6 +1,7 @@
 # MPMS · Enunciado CSMP 18
 
 - **Órgão:** Ministério Público do Estado de Mato Grosso do Sul (MPMS)
+- **Espécie:** Enunciado
 - **Emissor:** Conselho Superior do Ministério Público
 - **Identificador:** `mpms-en-csmp-18`
 - **Número na ficha:** 0018/2018

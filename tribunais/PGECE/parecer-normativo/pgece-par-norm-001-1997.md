@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 001/97
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-001-1997`
 - **Número impresso:** 001/97
 - **Processo impresso:** 96134480-6
 - **Origem ou interessado na identificação impressa:** Origem: PGE
+- **Fonte:** [article PARECER NORMATIVO Nº 001/97 - DOE - Data Publicação 18/02/1997](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2010/02/processo_96134480-6.pdf)
 
 ## Identidade e limites
 

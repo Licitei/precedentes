@@ -1,11 +1,13 @@
 # PGECE · "PARECER Nº002/2005" (título sem "Normativo"); o ato do Governador diz "APROVO O PARECER NORMATIVO… conferindo… efeito NORMATIVO" 002/2005
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-002-2005`
 - **Número impresso:** 002/2005
 - **Processo impresso:** 04371431-5
 - **Origem ou interessado na identificação impressa:** Origem: SSPDS; interessada: Corregedoria Geral dos Órgãos de Segurança
+- **Fonte:** [PARECER NORMATIVO Nº 002/05](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No003-2005.pdf)
 
 ## Identidade e limites
 

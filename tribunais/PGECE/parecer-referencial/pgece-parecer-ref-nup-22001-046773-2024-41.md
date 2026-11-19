@@ -3,6 +3,7 @@
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
 - **Espécie:** Parecer Referencial
 - **Identificador:** `pgece-parecer-ref-nup-22001-046773-2024-41`
+- **Fonte:** [PDF oficial](https://www.portalcompras.ce.gov.br/wp-content/uploads/sites/80/2024/04/Parecer_Referencial_PGE_-_Cotacao_Eletronica_Entrega_Imediata.pdf)
 
 ## Fonte e conferência
 

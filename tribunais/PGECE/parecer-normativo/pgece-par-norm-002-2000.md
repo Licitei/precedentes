@@ -1,6 +1,7 @@
 # PGECE · Parecer Normativo 002/2000
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará — Consultoria Geral
+- **Espécie:** Parecer Normativo
 - **Identificador:** `pgece-par-norm-002-2000`
 - **Número impresso:** 002/2000
 - **Processo impresso:** 00062490-0

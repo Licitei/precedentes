@@ -1,5 +1,6 @@
 # PGEMT · Parecer normativo — adesão a Ata de Registro de Preços (OJN 005/CPPGE/2020)
 
+- **Órgão:** PGEMT
 - **Espécie:** Parecer normativo (suporte da OJN)
 - **Identificador:** `pgemt-parecer-ref-ojn-005-2020`
 - **Fonte documental:** [PDF portal PGE](https://www.pge.mt.gov.br/documents/4416107/13939970/PARECER_OJ+005__1.pdf/7e1b1741-ba4c-fd7e-2ac9-c4d6b0e84f72)

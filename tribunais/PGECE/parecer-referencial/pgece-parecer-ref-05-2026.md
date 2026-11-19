@@ -6,6 +6,7 @@
 - **Processo:** 31022.000829/2026-25
 - **Origem:** Fundação Universidade Estadual Vale do Acaraú — UVA (PROGEP)
 - **Identificador:** `pgece-parecer-ref-05-2026`
+- **Fonte:** [PDF hospedado no portal institucional](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2026/07/578ab2e4-ed0b-406c-a4fc-cd13ee00bba31788983929.193444.pdf)
 
 ## Fonte, identidade e limites
 

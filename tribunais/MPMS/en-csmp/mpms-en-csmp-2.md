@@ -1,6 +1,7 @@
 # MPMS · Enunciado CSMP 2
 
 - **Órgão:** Ministério Público do Estado de Mato Grosso do Sul (MPMS)
+- **Espécie:** Enunciado
 - **Emissor:** Conselho Superior do Ministério Público
 - **Identificador:** `mpms-en-csmp-2`
 - **Número na ficha:** 0002/2012

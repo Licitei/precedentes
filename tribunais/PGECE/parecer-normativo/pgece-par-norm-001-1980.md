@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 01/80
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-001-1980`
 - **Número impresso:** 01/80
 - **Processo impresso:** 002/80
 - **Origem ou interessado na identificação impressa:** Interessado: Banco de Desenvolvimento do Ceará S.A. (BANDECE)
+- **Fonte:** [article PARECER NORMATIVO Nº 01/80 - DOE - Data Publicação 28/02/1980](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2010/02/processo_002-80.pdf)
 
 ## Identidade e limites
 

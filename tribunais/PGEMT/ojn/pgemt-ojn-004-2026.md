@@ -1,5 +1,6 @@
 # PGEMT · Orientação Jurídico-Normativa 004/CPPGE/2026
 
+- **Órgão:** PGEMT
 - **Espécie:** Orientação Jurídico-Normativa (OJN)
 - **Número:** 004/CPPGE/2026
 - **Identificador:** `pgemt-ojn-004-2026`

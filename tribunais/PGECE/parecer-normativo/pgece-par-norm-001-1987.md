@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 01/87
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-001-1987`
 - **Número impresso:** 01/87
 - **Processo impresso:** 943/86 (último algarismo com leitura incerta em G05)
 - **Origem ou interessado na identificação impressa:** Origem: Polícia Militar do Ceará
+- **Fonte:** [PARECER NORMATIVO Nº 01/87](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No-01-1987-PMCE.pdf)
 
 ## Identidade e limites
 

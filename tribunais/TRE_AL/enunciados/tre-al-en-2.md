@@ -1,6 +1,7 @@
 # TRE_AL · Enunciado 2
 
 - **Órgão:** TRE_AL
+- **Espécie:** Enunciado
 - **Identificador:** `tre-al-en-2`
 - **Número:** 2
 - **Página física do PDF:** 6

@@ -1,6 +1,7 @@
 # CNPG · COPEDS · Enunciado nº 7
 
 - **Órgão atribuído no cabeçalho da reprodução:** Conselho Nacional de Procuradores Gerais – CNPG
+- **Espécie:** Enunciado
 - **Grupo atribuído:** Grupo Nacional de Direitos Humanos – GNDH
 - **Comissão:** Comissão Permanente de Defesa da Saúde – COPEDS
 - **Série impressa:** Enunciados COPEDS

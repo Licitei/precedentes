@@ -1,0 +1,28 @@
+# Erros de fichas e divergência do README.md fazem este job falhar.
+# A saída lista a contagem por tipo e uma amostra.
+# Este passo usa --readme-check: a contagem precisa casar com o enunciado
+# "N IDs únicos em M órgãos" do README.md da raiz.
+
+name: Validar fichas
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  validar:
+    name: python scripts/validar.py --readme-check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v7
+
+      - name: Instalar Python 3.12
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Validar fichas
+        run: python scripts/validar.py --readme-check

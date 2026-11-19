@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 002/2003 (Parecer nº 1582/2003)
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-002-2003`
 - **Número impresso:** 002/2003 (Parecer nº 1582/2003)
 - **Processo impresso:** 03010303-7
 - **Origem ou interessado na identificação impressa:** Origem: SEFAZ
+- **Fonte:** [PARECER NORMATIVO Nº 002/03](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No002-2003.pdf)
 
 ## Identidade e limites
 

@@ -1,6 +1,7 @@
 # MPMS · Enunciado CSMP 26
 
 - **Órgão:** Ministério Público do Estado de Mato Grosso do Sul (MPMS)
+- **Espécie:** Enunciado
 - **Emissor:** Conselho Superior do Ministério Público
 - **Identificador:** `mpms-en-csmp-26`
 - **Número na ficha:** 0026/2026
