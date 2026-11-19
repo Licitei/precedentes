@@ -33,6 +33,10 @@ As datas do catálogo (por exemplo, 20/10/2016 para enunciados de 1997 a 2004) s
 | [24/2022](mpma-en-csmp-hist-24-2022.md) | “Os prazos previstos no artigo 23, §§2º e 3º da Lei 8.429/92, com as alterações da Lei 14.230/2021, são prazos impróprios e seu decurso não impede, de… | 28/03/2022 |
 | [25/2022](mpma-en-csmp-hist-25-2022.md) | “Em razão da natureza imprópria, não extintiva e procedimental dos prazos estabelecidos no artigo 23, §§2º e 3º da Lei 8.429/92, com as alterações da… | 28/03/2022 |
 
+## Publicações no diário e reconsulta — 19/11/2026
+
+A Resolução nº 13/2022-CSMP, que aprova os Enunciados 24/CSMP e 25/CSMP, está publicada no [DEMP 049/2022, p. 12](https://cdn-0.mpma.mp.br/diario/0492022-15032022.pdf) (disponibilização 14/03/2022, publicação 15/03/2022); a íntegra está transcrita nas duas fichas. A revisão de 2022 está publicada no [DEMP 147/2022, pp. 10–11](https://cdn-0.mpma.mp.br/diario/1472022-10082022.pdf), sem artigo que mapeie a numeração anterior. O catálogo, que respondera HTTP 410 em 05/11/2026, voltou a responder HTTP 200 nas duas páginas em 19/11/2026, com os mesmos 26 cards e o 25/2022 persistindo ao lado do 24/2022; os documentos vinculados repetiram os bytes e SHA-256 registrados. O [DEMP 166/2024, p. 23](https://cdn-0.mpma.mp.br/diario/1662024-03092024.pdf) registra decisão do CSMP de 03/09/2024 que invoca conjuntamente os Enunciados 25/2022-CSMP/MPMA e 24/2022-CSMP/MPMA como entendimento do órgão: documento de apoio, sem registro próprio. Nenhum ato de renumeração ou destino do histórico 25/2022 foi localizado na busca por conteúdo do diário; a lacuna documentada em #253 permanece.
+
 ## Nota 1 dos documentos históricos 14 a 18
 
 Os cinco documentos vinculados pelo título de cada ficha no catálogo repetem a nota abaixo. O texto vem das exportações em texto de Google Docs capturadas em par em 29/10/2026; os links e SHA-256 estão nas cinco fichas. São excertos que a fonte atribui às revisões do MPF, sem leitura autônoma dos processos ou confirmação jurídica atual. Espaços e linhas em branco foram normalizados; nomes e funções públicas permanecem. A chamada [1] foi mantida em cada justificativa.
