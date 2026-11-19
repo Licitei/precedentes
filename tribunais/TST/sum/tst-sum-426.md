@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 426
 - **Identificador:** `tst-sum-426`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada por perda de eficácia a partir de 11.11.2017, pela Lei 13.467/2017, Res. 225/2025 – DEJT divulgado em 30.06, 01 e 02.07.2025)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

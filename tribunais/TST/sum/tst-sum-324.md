@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 324
 - **Identificador:** `tst-sum-324`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada em decorrência da sua incorporação à nova redação da súmula nº 90)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 124
 - **Identificador:** `tst-sum-124`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(alterada em razão do julgamento do processo TST-IRR 849-83.2013.5.03.0138)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

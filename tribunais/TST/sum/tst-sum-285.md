@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 285
 - **Identificador:** `tst-sum-285`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada a partir de 15 de abril de 2016) - Res. 204/2016”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

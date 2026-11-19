@@ -4,7 +4,7 @@
 - **Espécie:** Precedente Normativo
 - **Número:** 48
 - **Identificador:** `tst-pn-48`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelado pelo T. Pleno em sessão de 02.09.2004 - homologação Res. 125/2004, DJ 10.09.2004)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 
