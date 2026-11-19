@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 288
 - **Identificador:** `tst-sum-288`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(nova redação para o item I e acrescidos os itens III e IV em decorrência do julgamento do processo TST-E-ED-RR-235-20.2010.5.20.0006 pelo Tribunal Pleno em 12.04.2016)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

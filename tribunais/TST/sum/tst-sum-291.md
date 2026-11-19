@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 291
 - **Identificador:** `tst-sum-291`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(nova redação em decorrência do julgamento do processo TST-IUJERR 10700-45.2007.5.22.0101)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

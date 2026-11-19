@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 25
 - **Identificador:** `tst-sum-25`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(alterada a Súmula e incorporadas as Orientações Jurisprudenciais nºs 104 e 186 da SBDI-I)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

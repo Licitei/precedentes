@@ -7,7 +7,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | Órgão | Identidades registradas |
 | --- | ---: |
 | [AGEMG](AGEMG/) | 42 |
-| [AGU](AGU/) | 2.116 |
+| [AGU](AGU/) | 2.132 |
 | [ANAC](ANAC/) | 3 |
 | [ANATEL](ANATEL/) | 27 |
 | [ANCINE](ANCINE/) | 20 |

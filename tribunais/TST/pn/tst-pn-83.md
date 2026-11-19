@@ -4,7 +4,7 @@
 - **Espécie:** Precedente Normativo
 - **Número:** 83
 - **Identificador:** `tst-pn-83`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(nova redação – Res. 123/2004, DJ 06.07.2004)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

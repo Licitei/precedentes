@@ -1,6 +1,6 @@
 # AGU
 
-Advocacia-Geral da União. **2.116 registros.**
+Advocacia-Geral da União. **2.132 registros.**
 
 | Espécie | Registros |
 | --- | ---: |
@@ -25,6 +25,9 @@ Advocacia-Geral da União. **2.116 registros.**
 | [Orientação Normativa Interna da CJU-SP](onicjusp/) | 15 |
 | [Orientação Normativa do NAJ-MG](onnajmg/) | 3 |
 | [Parecer aprovado da CPLC/PGF](pcplc/) | 1 |
+| [Parecer Referencial da ELIC/PGF](pgf-parecer-ref/) | 16 |
 | [Súmula da AGU](sum/) | 87 |
 
 O [Parecer 034/2013/DECOR](mconuni/agu-conuni-724.md) contém transcrição das quatro páginas conferidas por imagem e revisão independente. Lacunas curtas da nota 1 decorrem de perda de tinta no scan e permanecem marcadas; não foram reconstruídas. Os despachos vinculados são documentos separados. Sem alteração da contagem.
+
+A série de [Pareceres Referenciais da ELIC/PGF](pgf-parecer-ref/) entra com 16 identidades. O PDF 00009/2025 usa fontes Type 3 sem mapa Unicode; a ementa e as assinaturas foram lidas visualmente, mas as 13 páginas do corpo permanecem com transcrição pendente. As ausências 00003/2026, 00005/2026 e 00006/2026 ficam registradas, sem inferência.

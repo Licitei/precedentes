@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 191
 - **Identificador:** `tst-sum-191`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada a parte final da antiga redação e inseridos os itens II e III) - Res. 214/2016”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 
