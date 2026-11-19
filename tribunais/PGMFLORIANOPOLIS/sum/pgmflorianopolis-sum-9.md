@@ -41,7 +41,7 @@ pertinentes. (Parecer nº 016/PGM/SUBSIJUD/NAJUA/2022, de 10 de outubro de
                               CHRISTIANE EGGER por CHRISTIANE EGGER
                               CATUCCI:[CPF omitido] CATUCCI:[CPF omitido]
                                                Dados: 2023.11.28 11:39:59
-                              934              -03'00'
+                              [CPF omitido]              -03'00'
 
                             CHRISTIANE EGGER CATUCCI
                             Procuradora Geral do Município

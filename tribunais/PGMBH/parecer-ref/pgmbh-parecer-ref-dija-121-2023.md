@@ -684,7 +684,7 @@ se ciência à Secretaria Municipal de Governo.
                                               por VITOR LIMA DOS
                                SANTOS:[CPF omitido]  SANTOS:[CPF omitido]
                                               Dados: 2023.08.09 08:54:38
-                               54617          -03'00'
+                               [CPF omitido]          -03'00'
                                       Vitor Lima dos Santos
                                        OAB/MG n. 218.843
                                           BM n. 311.984-8
