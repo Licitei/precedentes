@@ -11,6 +11,7 @@
 - **Documento:** [Assento 001/2016 — PDF oficial](https://athenas.mpto.mp.br/athenas/FileUploadController/get_public_file/a0c558e7e7d13a4e25afb0488b94a3ad)
 - **Páginas transcritas:** nenhuma de 1
 - **Captura:** 19/11/2026; 357.626 bytes; SHA-256 `16e93f327b772145e075f05e4cbe80f1b105ecdd3fa1a95c122f5d6e0ff981d5`; duas capturas HTTP 200 idênticas.
+- **Sessão, data e processo:** não extraíveis do PDF sem camada de texto; pendentes.
 
 ## Texto
 

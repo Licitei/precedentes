@@ -11,6 +11,7 @@
 - **Documento:** [Súmulas 012 a 017/2017 — PDF oficial](https://athenas.mpto.mp.br/athenas/FileUploadController/get_public_file/369422e3b716f115de6fb26a491fc71e)
 - **Páginas transcritas:** nenhuma de 4
 - **Captura:** 19/11/2026; 24.326.603 bytes; SHA-256 `2f5a56f5cea83a0672d1a3594c188cf0264a52ab44128309078a71b8904a72b4`; duas capturas HTTP 200 idênticas.
+- **Sessão e data impressa:** não extraíveis do PDF sem camada de texto; pendentes.
 
 ## Texto
 

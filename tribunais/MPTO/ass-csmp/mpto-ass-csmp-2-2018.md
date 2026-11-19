@@ -39,4 +39,4 @@ Membro
 
 ## Conferência e limites
 
-Texto transcrito da camada textual do PDF oficial, sem OCR e sem leitura visual. Duas capturas HTTP 200 em 19/11/2026 coincidem em bytes e SHA-256. O PDF imprime a aprovação na 189ª Sessão Ordinária, ocorrida em 24/04/2018, e o fecho em 26/04/2018. Quebras de linha foram reunidas; grafia, pontuação e maiúsculas foram preservadas. Assento é espécie distinta de súmula e de enunciado do mesmo Conselho. Não se inferem vigência, vinculação ou exaustividade; normas e atos citados não receberam IDs.
+Texto transcrito da camada textual do PDF oficial, sem OCR e sem leitura visual. Duas capturas HTTP 200 em 19/11/2026 coincidem em bytes e SHA-256. O PDF imprime a aprovação na 189ª Sessão Ordinária, ocorrida em 24/04/2018, e o fecho em 26/04/2018; não imprime número de processo. Quebras de linha foram reunidas; grafia, pontuação e maiúsculas foram preservadas. Assento é espécie distinta de súmula e de enunciado do mesmo Conselho. Não se inferem vigência, vinculação ou exaustividade; normas e atos citados não receberam IDs.
