@@ -1,13 +1,13 @@
 # Inventário estrutural por órgão
 
-**Recontagem estrutural de 19/11/2026: 44.037 IDs únicos em 215 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
+**Recontagem estrutural de 19/11/2026: 44.053 IDs únicos em 215 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
 | Órgão | Identidades registradas |
 | --- | ---: |
 | [AGEMG](AGEMG/) | 42 |
-| [AGU](AGU/) | 2.116 |
+| [AGU](AGU/) | 2.132 |
 | [ANAC](ANAC/) | 3 |
 | [ANATEL](ANATEL/) | 27 |
 | [ANCINE](ANCINE/) | 20 |

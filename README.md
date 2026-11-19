@@ -2,7 +2,7 @@
 
 Súmulas, temas, consultas, orientações e manifestações de fontes oficiais. Um arquivo Markdown por registro.
 
-**Cobertura parcial.** **Recontagem estrutural de 19/11/2026: 44.037 IDs únicos em 215 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência. [Método e limites](COBERTURA.md) · [Acompanhamento das lacunas (#239)](https://github.com/Licitei/precedentes/issues/239).
+**Cobertura parcial.** **Recontagem estrutural de 19/11/2026: 44.053 IDs únicos em 215 órgãos, sem duplicatas.**
 
 
 - [Explorar por órgão](tribunais/README.md)
