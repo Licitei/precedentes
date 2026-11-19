@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial do Tribunal Pleno/Órgão Especial
 - **Número:** 7
 - **Identificador:** `tst-oj-tpoe-7`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(nova redação) – Res. 175/2011”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

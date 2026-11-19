@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial da SBDI-I
 - **Número:** 307
 - **Identificador:** `tst-oj-sdi1-307`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada em decorrência da aglutinação ao item I da Súmula nº 437)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

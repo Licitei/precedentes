@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial da SBDI-I
 - **Número:** 13
 - **Identificador:** `tst-oj-sdi1-13`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(mantida conforme julgamento do processo TST-E-RR-148500-29.2004.5.09.0022 pelo Tribunal Pleno em 22.08.2016)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

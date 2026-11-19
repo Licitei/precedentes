@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial da SBDI-I
 - **Número:** 358
 - **Identificador:** `tst-oj-sdi1-358`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(redação alterada na sessão do Tribunal Pleno realizada em 16.2.2016)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 
