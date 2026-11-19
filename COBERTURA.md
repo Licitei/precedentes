@@ -1,8 +1,8 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 43.998 IDs únicos em 212 órgãos, sem duplicatas (06/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 44.003 IDs únicos em 213 órgãos, sem duplicatas (19/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1021 IDs e +25 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1026 IDs e +26 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/Licitei/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -2212,7 +2212,7 @@ Na captura HTML de 29/10/2026, a página da súmula de entendimento 001.11.CSMP 
 
 ## MPAM — recuperação da Súmula de Entendimento 001/11-CSMP
 
-A [Súmula de Entendimento 001/11](tribunais/MPAM/sum-csmp/mpam-sum-csmp-1-2011.md) foi integrada pelo [PR #295](https://github.com/minutei-ai/precedentes/pull/295), resolvendo a lacuna específica de [#211](https://github.com/minutei-ai/precedentes/issues/211). O [PDF oficial do artigo 2459](https://www.mpam.mp.br/images/attachments/article/2459/Súmula%20de%20Entendimento%20nº%20001.11.CSMP.pdf) tem uma página, 132.878 bytes e SHA-256 `d1cfca73398427c2d928c4bdef1df5a8b1a1c258749445a10ace3574bf7cfea2`; as duas capturas de 04/11/2026 são idênticas.
+A [Súmula de Entendimento 001/11](tribunais/MPAM/sum-csmp/mpam-sum-csmp-1-2011.md) foi integrada pelo [PR #295](https://github.com/Licitei/precedentes/pull/295), resolvendo a lacuna específica de [#211](https://github.com/Licitei/precedentes/issues/211). O [PDF oficial do artigo 2459](https://www.mpam.mp.br/images/attachments/article/2459/Súmula%20de%20Entendimento%20nº%20001.11.CSMP.pdf) tem uma página, 132.878 bytes e SHA-256 `d1cfca73398427c2d928c4bdef1df5a8b1a1c258749445a10ace3574bf7cfea2`; as duas capturas de 04/11/2026 são idênticas.
 
 A página inteira foi conferida visualmente contra o registro publicado, incluindo o dispositivo, a aprovação unânime de 29/04/2011 e o signatário. A revisão independente também confirmou a literalidade. Cabeçalho `001/11-CSMP`, parágrafo de aprovação `001/2011-CSMP` e rótulo HTML `001.11.CSMP` permanecem atribuídos às respectivas fontes. Não se inferem vigência atual nem efeito vinculante.
 

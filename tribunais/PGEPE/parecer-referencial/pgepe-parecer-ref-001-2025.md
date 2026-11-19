@@ -19,7 +19,7 @@ O parecer ocupa as páginas 1–26, com fecho em Recife, 26 de novembro de 2020,
 
 As 27 páginas foram lidas integralmente em imagens e cotejadas por revisões independentes: GPT-6 Astra nas páginas 1–20 e GPT-6.1 Sol nas páginas 21–27. Foram aplicados sete ajustes de segmentação de citações, sem substituição lexical. A seção 2.8 começa ao fim da página 20 e prossegue na página 21; ambas aparecem uma única vez.
 
-Preservados os lapsos impressos e as formas das citações, incluindo “contratante”, “contrato sinalize”, “dispostos” e “extremes”. Descrições de brasão, quadros, assinatura e espaços em branco estão entre colchetes e são editoriais. Linhas de composição foram reunidas, preservando parágrafos e destaques. Minutas, portarias, boletins e julgados mencionados ou citados no corpo não foram convertidos em peças autônomas. As demais fontes do catálogo e a prova de renumeração permanecem pendentes na [issue #264](https://github.com/minutei-ai/precedentes/issues/264).
+Preservados os lapsos impressos e as formas das citações, incluindo “contratante”, “contrato sinalize”, “dispostos” e “extremes”. Descrições de brasão, quadros, assinatura e espaços em branco estão entre colchetes e são editoriais. Linhas de composição foram reunidas, preservando parágrafos e destaques. Minutas, portarias, boletins e julgados mencionados ou citados no corpo não foram convertidos em peças autônomas. As demais fontes do catálogo e a prova de renumeração permanecem pendentes na [issue #264](https://github.com/Licitei/precedentes/issues/264).
 
 ### Página física 1
 

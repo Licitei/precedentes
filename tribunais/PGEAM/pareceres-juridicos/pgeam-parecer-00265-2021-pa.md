@@ -2,6 +2,7 @@
 
 - **Órgão:** Procuradoria-Geral do Estado do Amazonas (PGEAM)
 - **Espécie:** Parecer Jurídico (caráter normativo conferido pelo Governador)
+- **Identificador:** `pgeam-parecer-00265-2021-pa`
 - **Identidade:** 00265/2021-PA/PGE (o despacho cita «Parecer n.º 00265/2021»)
 - **Emissor do opinativo (conforme despacho):** Procuradoria Administrativa (PA/PGE), aprovado pelo Procurador-Chefe da PA e pelo Procurador-Geral
 - **Processo do despacho:** 01.01.011103.004528/2021-01

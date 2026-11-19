@@ -2,6 +2,7 @@
 
 - **Órgão:** Procuradoria-Geral do Estado do Amazonas (PGEAM)
 - **Espécie:** Parecer Jurídico (caráter normativo conferido pelo Governador)
+- **Identificador:** `pgeam-parecer-003-2017-ppt`
 
 ## Revisão documental pendente
 
