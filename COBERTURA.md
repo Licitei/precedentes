@@ -135,7 +135,7 @@ O MPCRS publica um PDF de quatro páginas com sete enunciados, não dois como re
 
 O MPCSP tem quatro PDFs de 32, 34, 55 e 65 páginas, com 98 orientações internas (35 + 19 + 25 + 19) e os precedentes citados. O texto foi transcrito da camada textual, sem OCR; os sumários (páginas 1–3 do PDF de 2016 e página 1 dos demais) não foram transcritos; cabeçalhos, rodapés e o sinal “ǂ” foram normalizados. O PDF de 2016 não imprime ATO de aprovação; o Ato n.º 001/2015-CP criou a comissão. Os PDFs de 2023 e 2025 imprimem ATO 016/2023-CP, 17/2023-CP e 021/2025-CP.
 
-Cada documento tem URL, data de consulta (19/11/2026) e SHA-256 na ficha; os PDFs e as páginas foram capturados duas vezes. Capturas, PDFs e extrações permanecem privados; o lote público contém apenas Markdown. Não se inferem vigência, efeito vinculante, adoção individual ou exaustividade; atos, normas, processos e precedentes apenas citados não receberam IDs. Sobre a base de 19/11/2026, 44.182 IDs em 221 órgãos, este lote soma +32 registros e +4 órgãos; conciliado com os lotes PGM-Rio/Maceió e CNPG integrados na mesma janela: **44.295 IDs em 227 órgãos**.
+Cada documento tem URL, data de consulta (19/11/2026) e SHA-256 na ficha; os PDFs e as páginas foram capturados duas vezes. Capturas, PDFs e extrações permanecem privados; o lote público contém apenas Markdown. Não se inferem vigência, efeito vinculante, adoção individual ou exaustividade; atos, normas, processos e precedentes apenas citados não receberam IDs. Sobre a base de 19/11/2026, 44.182 IDs em 221 órgãos, este lote soma +32 registros e +4 órgãos; conciliado com o lote PGM-Rio/Maceió integrado na mesma janela: **44.295 IDs em 227 órgãos**.
 
 ## ANVISA — consulta de súmulas
 
