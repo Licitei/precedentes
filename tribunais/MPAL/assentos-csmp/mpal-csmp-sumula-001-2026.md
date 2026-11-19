@@ -1,6 +1,7 @@
 # MPAL · Súmula CSMP 001/2026
 
 - **Órgão:** Ministério Público do Estado de Alagoas (MPAL)
+- **Espécie:** Súmula
 - **Emissor:** Conselho Superior do Ministério Público (CSMP)
 - **Identificador:** `mpal-csmp-sumula-001-2026`
 - **Número impresso:** 001/2026

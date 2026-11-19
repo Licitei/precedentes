@@ -1,6 +1,7 @@
 # PGECE · Parecer Normativo 002/2001
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará
+- **Espécie:** Parecer Normativo
 - **Identificador:** `pgece-par-norm-002-2001`
 - **Número impresso:** 002/2001
 - **Processo impresso:** 00353938-5

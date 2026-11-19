@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 002/96
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-002-1996`
 - **Número impresso:** 002/96
 - **Processo impresso:** 0678/96 (inventário grafava 06786/96)
 - **Origem ou interessado na identificação impressa:** Origem: Secretaria da Fazenda
+- **Fonte:** [article PARECER NORMATIVO Nº 002/96 - DOE - Data Publicação 14/06/1996](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2010/02/processo_0678-96.pdf)
 
 ## Identidade e limites
 

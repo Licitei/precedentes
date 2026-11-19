@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 001/2006
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-001-2006`
 - **Número impresso:** 001/2006
 - **Processo impresso:** 05212052-0
 - **Origem ou interessado na identificação impressa:** Origem: PGE
+- **Fonte:** [PARECER NORMATIVO Nº 001/06](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No001-2006.pdf)
 
 ## Identidade e limites
 

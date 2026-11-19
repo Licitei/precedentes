@@ -1,6 +1,7 @@
 # MPMS · Enunciado CSMP 7
 
 - **Órgão:** Ministério Público do Estado de Mato Grosso do Sul (MPMS)
+- **Espécie:** Enunciado
 - **Emissor:** Conselho Superior do Ministério Público
 - **Identificador:** `mpms-en-csmp-7`
 - **Número na ficha:** 0007/2014

@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 001/2001
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-001-2001`
 - **Número impresso:** 001/2001
 - **Processo impresso:** 00087208-3
 - **Origem ou interessado na identificação impressa:** Origem: Polícia Militar (portal diz SEFAZ)
+- **Fonte:** [PARECER NORMATIVO Nº 001/01](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No001-2001.pdf)
 
 ## Identidade e limites
 

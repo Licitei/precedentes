@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 001/2000
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-001-2000`
 - **Número impresso:** 001/2000
 - **Processo impresso:** 990233670-8 (edição 14/04) / 99233670-8 (edição 24/04), assim impressos
 - **Origem ou interessado na identificação impressa:** Origem: PGE
+- **Fonte:** [PARECER NORMATIVO Nº001/00](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No-001-2000.pdf)
 
 ## Identidade e limites
 

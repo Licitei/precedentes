@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 001/96
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-001-1996`
 - **Número impresso:** 001/96
 - **Processo impresso:** 0289/96
 - **Origem ou interessado na identificação impressa:** Origem: Secretaria de Agricultura e Reforma Agrária; interessada: CEDAP
+- **Fonte:** [PARECER NORMATIVO Nº 001/96](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No-001-1996.pdf)
 
 ## Identidade e limites
 

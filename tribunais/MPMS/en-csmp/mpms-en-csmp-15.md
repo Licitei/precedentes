@@ -1,6 +1,7 @@
 # MPMS · Enunciado CSMP 15
 
 - **Órgão:** Ministério Público do Estado de Mato Grosso do Sul (MPMS)
+- **Espécie:** Enunciado
 - **Emissor:** Conselho Superior do Ministério Público
 - **Identificador:** `mpms-en-csmp-15`
 - **Número na ficha:** 0015/2017

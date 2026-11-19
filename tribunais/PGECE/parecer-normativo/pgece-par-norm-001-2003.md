@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 001/2003 (Parecer nº 886/99)
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-001-2003`
 - **Número impresso:** 001/2003 (Parecer nº 886/99)
 - **Processo impresso:** 98118361-1/SPU
 - **Origem ou interessado na identificação impressa:** Origem: Secretaria da Segurança Pública e Defesa da Cidadania
+- **Fonte:** [PARECER NORMATIVO Nº 001/03](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No-001-2003.pdf)
 
 ## Identidade e limites
 

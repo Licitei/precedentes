@@ -1,6 +1,7 @@
 # MPAL · Assento CSMP 013/2026
 
 - **Órgão:** Ministério Público do Estado de Alagoas (MPAL)
+- **Espécie:** Assento
 - **Emissor:** Conselho Superior do Ministério Público (CSMP)
 - **Identificador:** `mpal-csmp-assento-013-2026`
 - **Número impresso:** 013/2026

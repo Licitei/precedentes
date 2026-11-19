@@ -1,6 +1,7 @@
 # MPAP · CAO Criminal · Enunciado 01/2011
 
 - **Órgão:** Ministério Público do Estado do Amapá
+- **Espécie:** Enunciado
 - **Série:** Centro de Apoio Operacional Criminal (CAOPCRIM)
 - **Identificador:** `mpap-en-cao-criminal-1-2011`
 - **Número impresso:** 01

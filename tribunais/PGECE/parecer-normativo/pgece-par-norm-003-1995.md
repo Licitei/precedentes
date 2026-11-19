@@ -1,11 +1,13 @@
 # PGECE · Parecer Normativo 003/95
 
 - **Órgão:** Procuradoria-Geral do Estado do Ceará (PGECE)
+- **Espécie:** Parecer Normativo
 - **Série do catálogo:** Pareceres normativos; a classificação do catálogo não certifica efeito jurídico
 - **Identificador:** `pgece-par-norm-003-1995`
 - **Número impresso:** 003/95
 - **Processo impresso:** 1292/95
 - **Origem ou interessado na identificação impressa:** Origem: Secretaria da Fazenda
+- **Fonte:** [PARECER NORMATIVO Nº 003/85](https://www.ce.gov.br/pge/wp-content/uploads/sites/70/2023/01/PARECER-NORMATIVO-No-003-1985.pdf)
 
 ## Identidade e limites
 

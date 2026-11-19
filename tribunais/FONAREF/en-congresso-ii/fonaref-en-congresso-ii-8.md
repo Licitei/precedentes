@@ -1,5 +1,7 @@
 # FONAREF — II Congresso, enunciado 8
 
+- **Órgão:** Fórum Nacional de Recuperação Empresarial e Falências (FONAREF)
+- **Espécie:** Enunciado
 - **Série:** II Congresso do Fórum Nacional de Recuperação Empresarial e Falências (FONAREF)
 - **Enunciado:** 8
 - **Identificador:** `fonaref-en-congresso-ii-8`
