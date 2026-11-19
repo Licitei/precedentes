@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 450
 - **Identificador:** `tst-sum-450`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada por perda de eficácia considerando a decisão da ADPF 501, a partir da publicação da ata de julgamento em 15.08.2022)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial da SBDI-II
 - **Número:** 85
 - **Identificador:** `tst-oj-sdi2-85`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada - 1ª parte convertida na Súmula nº 399 e parte final incorporada à nova redação da Súmula nº 298)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 417
 - **Identificador:** `tst-sum-417`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(alterado o item I, atualizado o item II e cancelado o item III, modulando-se os efeitos da presente redação de forma a atingir unicamente as penhoras em dinheiro em execução provisória efetivadas a partir de 18.03.2016, data de vigência do CPC de 2015)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial da SBDI-I
 - **Número:** 54
 - **Identificador:** `tst-oj-sdi1-54`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(título alterado, inserido dispositivo e atualizada a legislação - Res. 129/2005, DJ 20, 22 e 25.04.2005)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial da SBDI-I
 - **Número:** 394
 - **Identificador:** `tst-oj-sdi1-394`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(nova redação - IncJulgRREmbRep-10169-57.2013.5.05.0024, Tribunal Pleno, Relator Ministro Amaury Rodrigues Pinto Junior, DEJT 31/03/2023)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 423
 - **Identificador:** `tst-sum-423`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada por perda de eficácia considerando a decisão do ARE 1.121.633, a partir da publicação da ata de julgamento em 14/06/2022)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 
