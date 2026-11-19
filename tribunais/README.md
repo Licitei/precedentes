@@ -1,6 +1,6 @@
 # Inventário estrutural por órgão
 
-**Recontagem estrutural de 19/11/2026: 44.346 IDs únicos em 228 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
+**Recontagem estrutural de 19/11/2026: 44.390 IDs únicos em 230 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
@@ -106,6 +106,8 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [PGESE](PGESE/) | 1 |
 | [PGESP](PGESP/) | 23 |
 | [PGFN](PGFN/) | 20 |
+| [PGMBH](PGMBH/) | 35 |
+| [PGMFLORIANOPOLIS](PGMFLORIANOPOLIS/) | 9 |
 | [PGMJOINVILLE](PGMJOINVILLE/) | 6 |
 | [PGMMACEIO](PGMMACEIO/) | 34 |
 | [PGMRIO](PGMRIO/) | 47 |
@@ -239,4 +241,4 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [TRT24](TRT24/) | 99 |
 | [TSE](TSE/) | 73 |
 | [TST](TST/) | 1.613 |
-| **Total** | **44.346** |
+| **Total** | **44.390** |
