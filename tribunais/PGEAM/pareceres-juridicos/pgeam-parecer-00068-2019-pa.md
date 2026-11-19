@@ -2,6 +2,7 @@
 
 - **Órgão:** Procuradoria-Geral do Estado do Amazonas (PGEAM)
 - **Espécie:** Parecer Jurídico (caráter normativo conferido pelo Governador)
+- **Identificador:** `pgeam-parecer-00068-2019-pa`
 - **Identidade:** 00068/2019-PA/PGE
 - **Emissor do opinativo (conforme despacho):** Procuradoria Administrativa (PA/PGE), aprovado pelo Procurador-Chefe da PA e pelo Procurador-Geral
 - **Processo do despacho:** 01.02.026101.000189/2019-71

@@ -2,6 +2,7 @@
 
 - **Órgão:** Procuradoria-Geral do Estado do Amazonas (PGEAM)
 - **Espécie:** Parecer Jurídico (caráter normativo conferido pelo Governador)
+- **Identificador:** `pgeam-parecer-00009-2025-ppt`
 - **Identidade:** 00009/2025-PPT/PGE
 - **Emissor do opinativo:** Procuradoria do Pessoal Temporário (PPT/PGE)
 - **Processo administrativo (parecer):** 2025.02.000626

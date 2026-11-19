@@ -4,7 +4,7 @@ Documentos **complementares** aos registros de ementa do PR #305.
 
 Cada arquivo `*-inteiro-teor.md` reproduz o texto extraído do PDF oficial capturado privadamente via `@@display-file`. Os arquivos de ementa em `../` não são alterados neste PR.
 
-Refs #225. Depende de https://github.com/minutei-ai/precedentes/pull/305.
+Refs #225. Depende de https://github.com/Licitei/precedentes/pull/305.
 
 ## Enquadramento das duas consultas de não conhecimento
 
