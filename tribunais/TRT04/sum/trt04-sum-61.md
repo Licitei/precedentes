@@ -38,4 +38,8 @@ Precedentes:
 
 [0000576-56.2012.5.04.0512 (RO)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/a7-M2qjH1ceoe9MF4fr2TA)
 
+## Ato vinculado não recuperado nesta coleta — Resolução Administrativa nº 31/2017
+
+O vínculo indicado pela própria fonte ([PDF oficial](https://www.trt4.jus.br/portais/documento-ato/906101/RA_31.2017_-_Cancel_SAumula_61.pdf)) respondeu HTTP 404, tanto em consulta direta quanto em navegador na captura de 19/11/2026; o inteiro teor permanece pendente. O estado do destino nesta captura indica impedimento de acesso e não comprova inexistência do documento. As situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

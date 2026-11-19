@@ -71,4 +71,16 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Texto do ato vinculado — Resolução Administrativa nº 08/2000
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/43028/ra20000008.pdf) — captura HTTP 200 em 19/11/2026; 11126 bytes; SHA-256 `cc0e2c36e4c9f52d2ce8a0724f7b1711af9d7f91ece75a6c72a45b86aff628aa`.
+
+RESOLUÇÃO ADMINISTRATIVA Nº 08/2000
+
+CERTIFICO que o Tribunal Regional do Trabalho da 4ª Região, na sessão extraordinária e plenária, realizada nesta data, no uso de suas atribuições legais e regimentais, RESOLVEU, por maioria de votos, vencidos os Exmos. Juízes Maria Guilhermina Miranda, Carlos Alberto Robinson, Jane Alice de Azevedo Machado, Antonio Johann e Otacílio Silveira Goulart Filho, cancelar o ENUNCIADO DE SÚMULA nº 9, aprovado pela Resolução Administrativa nº 05/99. Tomaram parte na sessão os Exmos. Juízes Flavio Portinho Sirangelo, Paulo José da Rocha, Darcy Carlos Mahle, Rosa Maria Weber Candiota da Rosa, Belatrix Costa Prado, Fabiano de Castilhos Bertoluci, Mario Chaves, Dulce Olenca Baumgarten Padilha, Pedro Luiz Serafini, Magda Barros Biavaschi, Denis Marcelo de Lima Molarinho, João Ghisleni Filho, Maria Guilhermina Miranda, Carlos Cesar Cairoli Papaléo, Carlos Alberto Robinson, Jane Alice de Azevedo Machado, Beatriz Zoratto Sanvicente, Juraci Galvão Júnior, Rosane Serafini Casa Nova, João Alfredo Borges Antunes de Miranda, José Carlos de Miranda, Representante Classista dos Empregadores, Antonio Johann, Representante Classista dos Trabalhadores, Otacílio Silveira Goulart Filho, Representante Classista dos Trabalhadores, e José Antonio Pereira de Souza, Representante Classista dos Empregadores, sob a Presidência do Exmo. Juiz Darcy Carlos Mahle, Presidente deste Tribunal. Presente pelo Ministério Público a Dra. Vera Regina Della Pozza Reis. Dou fé. Porto Alegre, 15 de dezembro de 2000. Sérgio Duarte Pasquali, Secretário do Tribunal Pleno e do Órgão Especial.-.-.-.-.-.-.-.-.-.-. (*) Republicada por ter havido incorreção nas publicações dos dias 19.01, 22.01 e 23.01.2001.
+
+Publicada no DOE - Diário da Justiça nos dias 24.01, 25.01 e 26.01.2001.
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

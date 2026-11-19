@@ -72,4 +72,44 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Texto do ato vinculado — Resolução Administrativa nº 30/2023
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/1063252/RA%2030-2023%20-%20s%C3%BAmula%2037.pdf) — captura HTTP 200 em 19/11/2026; 112910 bytes; SHA-256 `c730c8bd04e4c689ab9d2a0b779a531874cb42195533c8860b18fe1a709f3ed5`.
+
+PODER JUDICIÁRIO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO
+
+RESOLUÇÃO ADMINISTRATIVA Nº 30/2023
+
+CERTIFICO que o Tribunal Regional do Trabalho da 4ª Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária e plenária, realizada nesta data, apreciando o processo TRT PROAD nº 5357/2023, RESOLVEU, por maioria de votos, vencidos parcialmente os Desembargadores Marçal Henri dos Santos Figueiredo, Marcelo José Ferlin D’ambroso, Brígida Joaquina Charão Barcelos e Manuel Cid Jardon, alterar a redação da Súmula nº 37, conforme segue:
+
+“Súmula nº 37 - HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA E DE ASSIS-
+
+TÊNCIA JUDICIÁRIA. BASE DE CÁLCULO.
+
+Os honorários advocatícios de sucumbência e assistência judiciária devem incidir sobre o valor liquidado da condenação, sem a dedução dos descontos fiscais e previdenciários, excluída, apenas, a cota patronal previdenciária.”.
+
+Tomaram parte na sessão os Exmos. Desembargadores João Alfredo Borges Antunes de Miranda, Cleusa Regina Halfen, Ricardo Carvalho Fraga, Luiz Alberto de Vargas, Cláudio Antônio Cassou Barbosa, Emílio Papaléo Zin, Vania Cunha Mattos, Alexandre Corrêa da Cruz, Clóvis Fernando Schuch Santos, Marçal Henri dos Santos Figueiredo Rejane Souza Pedra, Wilson Carvalho Dias, Ricardo Hofmeister de Almeida Martins Costa, Marcelo Gon- çalves de Oliveira, Lucia Ehrenbrink, Maria Madelena Telesca, Tânia Regina Silva Reckzie- gel, Marcelo José Ferlin D’ambroso, André Reverbel Fernandes, João Paulo Lucena, Fer- nando Luiz de Moura Cassal, Brígida Joaquina Charão Barcelos, João Batista de Matos Danda, Fabiano Holz Beserra, Ângela Rosi Almeida Chapper, Janney Camargo Bina, Manu- el Cid Jardon, Roger Ballejo Villarinho, Simone Maria Nunes, Maria Silvana Rotta Tedesco, Rosiul de Freitas Azambuja, Luciane Cardoso Barzotto, sob a presidência do Exmo. Desem- bargador Francisco Rossal de Araújo. Presente pelo Ministério Público do Trabalho Dr. Rafa- el Foresti Pego. Porto Alegre, 11 de setembro de 2023.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
+Cláudia Regina Schröder
+
+Secretária do Tribunal Pleno,
+
+do Órgão Especial e da SDC
+
+PODER JUDICIÁRIO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO
+
+CERTIDÃO
+
+CERTIFICO que a presente Resolução Administrativa foi disponibilizada no DEJT dos dias 12, 13 e 14 de setembro de 2023, considerada publicada nos dias 13, 14 e 15 de setembro de 2023. Dou fé. Em 15 de setembro de 2023.
+
+Cláudia Regina Schröder
+
+Secretária do Tribunal Pleno, do Órgão Especial e da SDC
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de alteração indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

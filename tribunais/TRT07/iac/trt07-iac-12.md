@@ -17,4 +17,8 @@
 - 00011160620245070026
 - [00015691120265070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0001569-11.2026.5.07.0000/2#2409876)
 
+## Nota de reconsulta do BNP — 19/11/2026
+
+Na reconsulta do Pangea/BNP em 19/11/2026, o registro passou a exibir a situação “Cancelado”, com atualização informada em 17/11/2026, a questão prefixada com “CANCELADO E REAUTUADO COMO IRDR:” e, no campo da tese, o seguinte teor: “ACORDAM OS DESEMBARGADORES INTEGRANTES DO PLENO DO E. TRIBUNAL REGIONAL DO TRABALHO DA 7ª REGIÃO, por maioria: em aplicação do princípio da fungibilidade, receber o presente Incidente de Assunção de Competência (IAC) como Incidente de Resolução de Demandas Repetitivas (IRDR) e, presentes os requisitos do art. 976 do Código de Processo Civil, admiti-lo, a fim de que este Egrégio Tribunal Pleno uniformize o entendimento acerca da seguinte questão jurídica: (....),e) reautuação do processo como IRDR.”. O mesmo processo (0001569-11.2026.5.07.0000) passou a ser exibido como IRDR nº 23, com situação “Admitido”, selo “Suspensão ativa” e atualização informada em 30/10/2026 ([pesquisa do IRDR 23](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=23)). As apresentações permanecem atribuídas ao BNP nas respectivas datas; a situação “Suscitado” registrada no cabeçalho desta ficha permanece como coletada, sem escolha de situação atual. Nenhuma fusão foi feita entre este incidente e o IRDR 20/23.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

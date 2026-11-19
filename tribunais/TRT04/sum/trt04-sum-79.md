@@ -36,4 +36,28 @@ Precedentes:
 
 [0000791-70.2013.5.04.0003 (RO)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/8BArGLSagqf1fPa_noEG4A)
 
+## Texto do ato vinculado — Resolução Administrativa 11/2019
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/1058691/RA%2011.2019%20-%20Cancel%20S%C3%BAmula%2079.pdf) — captura HTTP 200 em 19/11/2026; 88567 bytes; SHA-256 `c730f2916cde321ec4538b8c4c07445f76d530f5ed69fc53e290edf83d863b6d`.
+
+PODER JUDICIÁRIO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO
+
+RESOLUÇÃO ADMINISTRATIVA Nº 11/2019
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO, na sessão e plenária e extraordinária realizada nesta data, no uso de suas atribuições legais e regimentais, RESOLVE, por unanimidade, CANCELAR a Súmula nº 79 deste Tribunal, aprovada pela Resolução Administrativa nº 36/2015.
+
+Tomaram parte na sessão os Exmos. Desembargadores Rosane Serafini Casa Nova, João Alfredo Borges Antunes de Miranda, Ana Luiza Heineck Kruse, Cleusa Regina Halfen, Ana Rosa Pereira Zago Sagrilo, Ricardo Carvalho Fraga, João Pedro Silvestrin, Luiz Alberto de Vargas, Beatriz Renck, Maria Cristina Schaan Ferreira, Cláudio Antônio Cassou Barbosa, Carmen Izabel Centena Gonzalez, Emílio Papaléo Zin, Clóvis Fernando Schuch Santos, Marçal Henri dos Santos Figueiredo, Rejane Souza Pedra, Wilson Carvalho Dias, Ricardo Hofmeister Martins Costa, Francisco Rossal de Araújo, Marcelo Gonçalves de Oliveira, Maria Madalena Telesca, George Achutti, Laís Helena Jaeger Nicotti, Marcelo José Ferlin D´Ambroso, Gilberto Souza dos Santos, André Reverbel Fernandes, João Paulo Lucena, Fernando Luiz de Moura Cassal, Brígida Joaquina Charão Barcelos, João Batista de Matos Danda, Fabiano Holz Beserra, Marcos Fagundes Salomão, Manuel Cid Jardon, Roger Ballejo Villarinho e Simone Maria Nunes, sob a Presidência da Exma. Desembargadora Vania Cunha Mattos, Presidente deste Tribunal. Presente pelo Ministério Público do Trabalho o Dr. Gilson Luiz Laydner de Azevedo. Dou fé. Porto Alegre, 24 de junho de 2019. Cláudia Regina Schröder, Secretária do Tribunal Pleno, do Órgão Especial e da SDC.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+CERTIDÃO
+
+CERTIFICO que a presente Resolução Administrativa, disponibilizada no DEJT dos dias 25, 26 e 27.06.2019, é considerada publicada nos dias 26, 27 e 28.06.2019. Dou fé. Em 28 de junho de 2019.
+
+Cláudia Regina Schröder
+
+Secretária do Tribunal Pleno, do Órgão Especial e da SDC
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

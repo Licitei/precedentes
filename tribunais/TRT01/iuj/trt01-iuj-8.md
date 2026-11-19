@@ -7,12 +7,13 @@
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TRT1 — Catálogo oficial de teses jurídicas](https://www.trt1.jus.br/teses-juridicas)
+- **Capturas:** duas respostas HTTP 200 idênticas em 19/11/2026; 7980 bytes; SHA-256 `ceb4130efaad398ae5ccc3085d055803e729d9730a050558d836d22e36a8e6be`
 
 ## Informações do catálogo oficial
 
 Texto integral do catálogo de teses jurídicas, com número da tese, tema, processo, relatoria, ementa, publicação e vínculos. A identidade do registro usa a espécie e o tema do incidente; o número próprio da tese permanece no texto. A situação reproduz a classe expressa do portal, e o tachado da cancelada foi preservado. A data de publicação não foi convertida em atualização individual.
 
-Duas leituras apresentaram os mesmos 13 verbetes: cinco IRDR e oito IUJ. A página informa que não há tese firmada em IAC; isso não foi interpretado como inexistência de incidentes. Links antigos de consulta genérica, números e aparentes inconsistências foram mantidos sem reconstrução. Os documentos vinculados e as demais séries do tribunal continuam pendentes de coleta e conciliação.
+Duas leituras apresentaram os mesmos 13 verbetes: cinco IRDR e oito IUJ. A página informa que não há tese firmada em IAC; isso não foi interpretado como inexistência de incidentes. Links antigos de consulta genérica, números e aparentes inconsistências foram mantidos sem reconstrução. Em 19/11/2026 o item da Biblioteca Digital foi reaberto e o documento da tese foi capturado por HTTP, em duas respostas idênticas, com camada de texto extraída por pdftotext; a transcrição está na seção “Documento da Biblioteca Digital”, com atribuição à Biblioteca Digital. O enunciado do PDF coincide com o campo do catálogo, salvo espaçamento e quebras de linha. O campo “Vide Link” do item vincula o julgado ao item [1001/900869](https://bibliotecadigital.trt1.jus.br/jspui/handle/1001/900869), exibido como “Acórdão 0001484-42.2016.5.01.0000 (IUJ)”; em 19/11/2026 esse item respondeu HTTP 302 com redirecionamento para o login interno da Biblioteca (/jspui/ldap-login), e a mesma página encerrou a conexão no navegador integrado, de modo que o inteiro teor do acórdão não foi recuperado nesta coleta e a transcrição segue pendente. As demais séries do tribunal permanecem pendentes de coleta e conciliação.
 
 ## Texto disponibilizado pela fonte
 
@@ -37,5 +38,15 @@ Duas leituras apresentaram os mesmos 13 verbetes: cinco IRDR e oito IUJ. A pági
 ## Processos paradigma
 
 - [0001484-42.2016.5.01.0000](http://consulta.trtrio.gov.br/portal/processoListar.do)
+
+## Documento da Biblioteca Digital
+
+[Biblioteca Digital TRT-1 — Tese nº 06 (PDF)](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/911790/1/TESE%20JUR%c3%8dDICA%20PREVALECENTE%20n%c3%bamero%206.pdf)
+
+TESE JURÍDICA PREVALECENTE – 06
+
+INTERVALO INTRAJORNADA. SUPRESSÃO OU CONCESSÃO PARCIAL. PAGAMENTO DO PERÍODO TOTAL.
+
+O descumprimento do intervalo previsto no artigo 71 da CLT tem como consequência pagamento do período integral do intervalo para repouso e alimentação, mesmo quando fruída alguma parcela de descanso, em conformidade com o entendimento consolidado na Súmula 437, I, do TST.
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -16,4 +16,8 @@
 
 - [00015691120265070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0001569-11.2026.5.07.0000/2#2409876)
 
+## Nota de reconsulta do BNP — 19/11/2026
+
+Na reconsulta do Pangea/BNP em 19/11/2026, a posição “IRDR nº 20” passou a exibir o processo 0003844-30.2026.5.07.0000 (situação “Suscitado”, atualização 22/10/2026), cuja coleta histórica está registrada na ficha [IRDR 21](trt07-irdr-21.md) ([pesquisa do IRDR 20](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=20)). O processo registrado nesta ficha (0001569-11.2026.5.07.0000) passou a ser exibido como IRDR nº 23, com situação “Admitido”, selo “Suspensão ativa” e atualização informada em 30/10/2026 ([pesquisa do IRDR 23](https://bnp.pdpj.jus.br/pesquisa?orgao=trt07&tipo=IRDR&nr=23)); o IAC nº 12, do mesmo processo, passou a exibir “CANCELADO E REAUTUADO COMO IRDR” (ver a nota na ficha do IAC 12). As numerações e situações permanecem atribuídas ao BNP nas respectivas datas de captura; nenhuma ficha foi renumerada, fundida ou cancelada por inferência, e a situação do cabeçalho acima permanece como coletada.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

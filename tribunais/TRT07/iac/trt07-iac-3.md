@@ -22,4 +22,22 @@ Além disso, a aplicação dessa tese deverá ter efeito imediato, visto que se 
 
 - [00802982720215070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0080298-27.2021.5.07.0000/2)
 
+## Outra fonte oficial — Teses Firmadas em IAC
+
+[TRT7 — Teses Firmadas em IAC](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/teses-firmadas-em-iac) (página atualizada em 05/10/2026; captura de 19/11/2026). Os endereços atuais do portal não usam mais a terminação “.html” registrada historicamente; o acesso direto antigo respondeu 403/404 na captura, e a navegação foi feita pelo menu oficial do portal, sem interação com autenticação.
+
+### Tese em Incidente de Assunção de Competência nº 0003 do TRT7
+
+INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. AÇÃO CIVIL PÚBLICA. PRESCRIÇÃO QUINQUENAL.
+ APLICABILIDADE. INTERRUPÇÃO DA PRESCRIÇÃO. A ação civil pública submete-se à prescrição quinquenal com fundamento na aplicação analógica do prazo prescricional previsto no art. 21 da Lei nº 4.717/65 (Lei da Ação Popular), porém, quando se tratar o objeto da demanda de crimes e direitos imprescritíveis, esta ação também será imprescritível. Ademais, o início do prazo prescricional conta-se a partir do conhecimento pelo Ministério Público do Trabalho ou pelo autor legitimado da violação do direito. Outrossim, ocorre a interrupção da prescrição quinquenal por qualquer ato inequívoco, ainda que extrajudicial, que importe reconhecimento do direito pelo devedor, nos termos do art. 202, VI, do Código Civil.
+ Além disso, a aplicação dessa tese deverá ter efeito imediato, visto que se encontra fundamentada na jurisprudência dos Tribunais Superiores.
+
+Precedente:
+
+| Nº do Processo | Órgão Judicante | Relator | Data de Julgamento | Data de Publicação | Tipo de Decisão |
+| --- | --- | --- | --- | --- | --- |
+| Incidente de Assunção de competência 0080298-27.2021.5.07.0000 | Tribunal Pleno | Des. Francisco José Gomes da Silva | 05/08/2022 | 16/08/2022 | Unânime |
+
+A tese nº 0003 e o precedente 0080298-27.2021.5.07.0000 coincidem literalmente com o texto do BNP transcrito acima. A linha de precedente do catálogo acrescenta órgão judicante, relatoria, datas de julgamento e publicação e tipo de decisão, com atribuição ao catálogo. A apresentação do BNP permanece atribuída à fonte BNP; nada se infere sobre vigência.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

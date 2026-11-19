@@ -50,4 +50,16 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Texto do ato vinculado — RESOLUÇÃO Nº 19/2017
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/908119/ResoluAcAao_19-2017.pdf) — captura HTTP 200 em 19/11/2026; 14208 bytes; SHA-256 `b8692ba66da7f52185e9b4b2e4fd59f984a9098eb0a6e7bd7dabd4e950c8ffba`.
+
+RESOLUÇÃO Nº 19/2017
+
+CERTIFICO que a Seção Especializada em Execução do Tribunal Regional do Trabalho da 4ª Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária realizada nesta data, resolveu, por unanimidade de votos, cancelar a ORIENTAÇÃO JURISPRUDENCIAL Nº 05.
+
+Tomaram parte na sessão os Exmos. Desembargadores Cleusa Regina Halfen, Ana Rosa Pereira Zago Sagrilo, Rejane Souza Pedra, Lucia Ehrenbrink, João Batista de Matos Danda e o Exmo. Juiz convocado Manuel Cid Jardon, sob a presidência do Exmo. Desembargador João Alfredo Borges Antunes de Miranda. Presente pelo Ministério Público do Trabalho o Dr. Luiz Fernando Mathias Vilar. Dou fé. Porto Alegre, 07 de novembro de 2017. Márcia Lamberti Doval, Secretária da Seção Especializada em Execução. :
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

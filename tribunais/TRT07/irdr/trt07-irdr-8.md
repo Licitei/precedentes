@@ -26,4 +26,23 @@ INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR. LEI COMPLEMENTAR Nº 66
 
 - [00036000920235070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0003600-09.2023.5.07.0000/2#306ce8b)
 
+## Outra fonte oficial — Teses Firmadas em IRDR
+
+[TRT7 — Teses Firmadas em IRDR](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/teses-firmadas-em-irdr) (página atualizada em 23/02/2026; captura de 19/11/2026). Os endereços atuais do portal não usam mais a terminação “.html” registrada historicamente; o acesso direto antigo respondeu 403/404 na captura, e a navegação foi feita pelo menu oficial do portal, sem interação com autenticação.
+
+### Tese em Incidente de Resolução de Demandas Repetitivas nº 0008 do TRT7
+
+INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR. LEI COMPLEMENTAR Nº 665/2018 INSTITUIDORA DO REGIME JURÍDICO ADMINISTRATIVO NO ÂMBITO DO MUNICÍPIO DE CRATEÚS – CE. LIMINAR PROFERIDA NO BOJO DA ACP No 0001197- 05.2018.8.06.0070 SUSPENDENDO OS SEUS EFEITOS. LIMINAR CASSADA. EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DO MÉRITO. DEFINIÇÃO DA DATA EM QUE O RJU PASSOU A TER EFICÁCIA, LIMITANDO A COMPETÊNCIA DA JUSTIÇA DO TRABALHO
+1. A revogação da antecipação de tutela, em razão da própria natureza precária da medida, opera efeitos "ex tunc", ou seja, retroativos ao momento de sua concessão. Inteligência da Súmula 405 do STF.
+2. De se concluir que o termo final da competência residual da Justiça do Trabalho para apreciar demandas contra o Município de Crateús não é a data da cassação da liminar que suspendeu os efeitos da Lei Municipal no 665/2018, nem tão pouco a data do trânsito em julgado desta decisão, e sim 45 dias contados da sua publicação no Diário Oficial do Município de Crateús-CE em 20/04/2018, cuja contagem terminou em 05 de junho de 2018.
+3. De se ressaltar, outrossim, nos termos dos entendimentos dispostos na Súmula 268 e na OJ 359 da SDI- 1 do TST, que o direito de reclamar verbas trabalhistas contra a edilidade, em face da interrupção dos prazos prescricionais, restou resguardado até 24/11/2024, ou seja, dois anos após o trânsito em julgado da Ação Civil Pública no 0001197-05.2018.8.06.0070, restando ainda definido que a prescrição quinquenal também teve o seu curso interrompido na data do ajuizamento da citada ação, qual seja, 24/04/2018, voltando a correr quando do seu trânsito em julgado em 24/11/2022.
+
+Precedente:
+
+| Nº do Processo | Órgão Judicante | Relator | Data de Julgamento | Data de Publicação | Tipo de Decisão |
+| --- | --- | --- | --- | --- | --- |
+| Incidente de Resolução de Demandas Repetitivas 0003600-09.2023.5.07.0000 | Tribunal Pleno | Des. Francisco José Gomes da Silva | 08/02/24 | 15/02/24 | Por maioria |
+
+O corpo da tese nº 0008 coincide no conteúdo com o texto do BNP transcrito acima, com diferenças de grafia e pontuação — por exemplo “No” contra “Nº”, “–” contra “-”, “SDI- 1” contra “SDI-1”, “0001197- 05” contra “0001197-05” e o ponto final ausente após “JUSTIÇA DO TRABALHO” no catálogo próprio; as grafias permanecem atribuídas às respectivas fontes, sem afirmar identidade literal integral. A linha de precedente do catálogo acrescenta órgão judicante, relatoria, datas de julgamento e publicação (08/02/24 e 15/02/24, conforme a grafia da fonte) e tipo de decisão, com atribuição ao catálogo. A apresentação do BNP permanece atribuída à fonte BNP.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -83,4 +83,28 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Texto do ato vinculado — Resolução Administrativa nº 11/2024
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/1064324/RA%2011-2024%20-%20CANCELA%20SUMULA%2012%20TRT4.pdf) — captura HTTP 200 em 19/11/2026; 69726 bytes; SHA-256 `2d4964c5bce47b61f2bc6aff771e0e30efb5ad957d2e574d20806c54128afac3`.
+
+RESOLUÇÃO ADMINISTRATIVA Nº 11/2024
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO, na sessão extraordinária e plenária realizada nesta data, no uso de suas atribuições legais e regimentais, RESOLVE, por unanimidade, CANCELAR a Súmula nº 12 deste Tribunal, aprovada pela Resolução Administrativa nº 08/1999.
+
+Tomaram parte na sessão os Exmos. Desembargadores Rosane Serafini Casa Nova, João Alfredo Borges Antunes de Miranda, Ana Luiza Heineck Kruse, Cleusa Regina Halfen, Ricardo Carvalho Fraga, Luiz Alberto de Vargas, Beatriz Renck, Maria Cristina Schaan Ferreira, Cláudio Antônio Cassou Barbosa, Carmen Izabel Centena Gonzalez, Emílio Papaléo Zin, Vania Cunha Mattos, Alexandre Corrêa da Cruz, Maria da Graça Ribeiro Centeno, Marçal Henri dos Santos Figueiredo, Rejane Souza Pedra, Wilson Carvalho Dias, Marcelo Gonçalves de Oliveira, Lucia Ehrenbrink, Maria Madalena Telesca, Tânia Regina Silva Reckziegel, Laís Helena Jaeger Nicotti, Marcelo José Ferlin D’Ambroso, André Reverbel Fernandes, João Paulo Lucena, Fernando Luiz de Moura Cassal, João Batista de Matos Danda, Fabiano Holz Beserra, Angela Rosi Almeida Chapper, Janney Camargo Bina, Marcos Fagundes Salomão, Manuel Cid Jardon, Roger Ballejo Villarinho, Simone Maria Nunes, Rosiul de Freitas Azambuja, Carlos Alberto May, Luciane Cardoso Barzotto e Luis Carlos Pinto Gastal, sob a presidência do Exmo. Desembargador Ricardo Hofmeister de Almeida Martins Costa, Presidente deste Tribunal. Presente pelo Ministério Público do Trabalho Dra. Denise Maria Schellenberguer Fernandes. Porto Alegre, 24 de junho de 2024.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial e da SDC
+
+CERTIDÃO
+
+CERTIFICO que a presente Resolução Administrativa, disponibilizada no DEJT dos dias 25.06.2024, 26.06.2024 e 27.06.2024 é considerada publicada nos dias 26.06.2024, 27.06.2024 e 28.06.2024. Dou fé. Em 28 de junho de 2024.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial e da SDC
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

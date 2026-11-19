@@ -16,4 +16,8 @@ IAC 0003558-52.2026.5.07.0000 "1. Para o reconhecimento da insalubridade decorre
 
 - 00035585220265070000
 
+## Nota de reconsulta do BNP — 19/11/2026
+
+Na reconsulta do Pangea/BNP em 19/11/2026, o registro passou a exibir a situação “Admitido”, com atualização informada em 28/10/2026 (o cabeçalho desta ficha registrou “Suscitado” com atualização 18/09/2026), além do selo “Suspensão ativa” e da indicação de suspensão na aba de processos. As apresentações permanecem atribuídas ao BNP nas respectivas datas, sem escolha de situação atual nem inferência de efeito da suspensão exibida.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

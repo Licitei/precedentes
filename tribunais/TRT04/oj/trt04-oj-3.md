@@ -52,4 +52,44 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Texto do ato vinculado — RESOLUÇÃO Nº 09/2017
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/883108/ResoluAcAaoSEEx_9_2017.pdf) — captura HTTP 200 em 19/11/2026; 53983 bytes; SHA-256 `226abfe08b460ff6e8ffcc34462cdfc7d2f3a06359282a5e006e1dd5d6a880ff`.
+
+RESOLUÇÃO Nº 09/2017
+
+CERTIFICO que a Seção Especializada em Execução do Tribunal Regional do Trabalho da 4ª Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária realizada nesta data, resolveu, por unanimidade de votos, alterar a ORIENTAÇÃO JURISPRUDENCIAL Nº 03, que passa a ter a seguinte redação:
+
+APLICAÇÃO DO ART. 354 DO CÓDIGO CIVIL. O pagamento do valor incontroverso, inclusive em relação à liberação do depósito recursal, torna inaplicável o disposto no art. 354 do Código Civil vigente, considerando-se a quitação do principal e dos juros de mora proporcionalmente às parcelas pagas.
+
+PRECEDENTES
+
+Acórdão do processo 0194800-68.1992.5.04.0811 AP
+
+Relator Desembargador João Ghisleni Filho
+
+Julgamento em 17-04-2012
+
+Publicado em 25-04-2012
+
+Acórdão do processo 0016700-34.2005.5.04.0812 AP
+
+Relatora Desembargadora Beatriz Renck
+
+Julgamento em 17-04-2012
+
+Publicado em 25-04-2012
+
+Acórdão do processo 0015700-96.2005.4.03.0812 AP
+
+Relatora Desembargadora Vania Mattos
+
+Julgamento em 17-04-2012
+
+Publicado em 24-04-2012
+
+Tomaram parte na sessão os Exmos. Desembargadores Cleusa Regina Halfen, Vania Mattos, Rejane Souza Pedra, Lucia Ehrenbrink, João Batista de Matos Danda e o Exmo. Juiz convocado Manuel Cid Jardon, sob a presidência do Exmo. Desembargador João Alfredo Borges Antunes de Miranda. Presente pelo Ministério Público do Trabalho a Dra. Denise Maria Schellenberger Fernandes. Dou fé. Porto Alegre, 20 de junho de 2017. Márcia Lamberti Doval, Secretária da Seção Especializada em Execução.
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de alteração indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
