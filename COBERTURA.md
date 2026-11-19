@@ -1,8 +1,26 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 44.008 IDs únicos em 214 órgãos, sem duplicatas (19/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 44.027 IDs únicos em 217 órgãos, sem duplicatas (19/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1031 IDs e +27 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/Licitei/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1050 IDs e +30 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/Licitei/precedentes/issues/239); não se certifica exaustividade nacional.
+
+## ANTAQ — súmulas administrativas 01/2025 e 01/2004
+
+A ANTAQ mantém duas identidades na série de súmulas administrativas no acervo Sophia. A Súmula Administrativa nº 1, de 04/02/2025, tem situação “Em vigor” no registro consultado em 19/11/2026; o PDF é o SEI 2466383, assinado em 05/02/2025 e com publicação indicada em 06/02/2025. A Súmula Administrativa nº 001, de 9 de agosto de 2004, tem situação “Revogado”; o PDF conserva a redação consolidada, com as alterações da Resolução nº 2.828/2013 e do Acórdão nº 132/2020, e a nota de revogação pelo Acórdão nº 31/2025-ANTAQ e pela Súmula Administrativa nº 01/2025. O Acórdão nº 31/2025 foi lido como ato de revogação e não recebeu ID.
+
+As duas capturas de cada PDF, em 19/11/2026, coincidem em bytes e SHA-256. O PDF da 01/2004 imprime dois itens “4)”, um com a nota de inclusão de 2013 e outro sem; ambos foram transcritos. As marcas d'água “PREVIEW” e “REVOGADA” não foram tratadas como corpo. O lote soma **2 registros e um órgão**. A série é distinta das resoluções e dos acórdãos da Agência; a consulta não esgota o acervo.
+
+## CFC — súmulas do Conselho Federal de Contabilidade
+
+A página oficial do CFC publica o PDF “Ementas Súmulas atualizadas-2022-1.pdf”, com 16 identidades, de 1 a 16, e não 11. As nºs 1 a 5, 7, 9, 11 e 12 estão marcadas “REVOGADA” na coluna da ementa; as nºs 6 (R1), 8, 10 (R1), 13 (R1), 14, 15 e 16 trazem ementa. As datas de aprovação e de revogação são as da tabela; as nºs 11 e 12 têm revogação em 17/03/2022, e as nºs 6 (R1), 10 (R1), 13 (R1), 15 e 16 têm aprovação na mesma data. A contagem de 11 do inventário da issue #563 não corresponde ao PDF consultado; a divergência fica registrada e prevalece a leitura da fonte oficial.
+
+As súmulas revogadas não têm texto na fonte; não houve reconstrução. As ementas preservam as referências ao Decreto-Lei nº 9.295/46, inclusive “Decreto-lei”, “DL n.” e “n.º”. O PDF não indica ato de aprovação, DOU ou processo. Duas capturas do PDF em 19/11/2026 coincidem em bytes e SHA-256. O lote soma **16 registros e um órgão**; resoluções, NBCs e orientações técnicas do CFC permanecem fora.
+
+## ANPD — Enunciado CD/ANPD nº 1/2023
+
+A página de Regulamentações da ANPD, consultada em 19/11/2026, lista uma única identidade na seção “ENUNCIADOS”, o Enunciado CD/ANPD nº 1, de 22/05/2023, com status “Vigente”. O DOU de 24/05/2023, edição 98, seção 1, página 129, publica os considerandos, o enunciado, a cláusula de vigência e a assinatura do Diretor-Presidente.
+
+O bloco do ato no HTML do DOU tem 1.431 bytes e SHA-256 `c3c7f2984a0125f0c1d12df50c32595249819009b341dd8833284b09cfc0ec45` nas duas capturas; o PDF certificado da página 129 tem 435.232 bytes e SHA-256 `21e29796fe7212f614c0eb64d2e2deba56fe44cec2c93a3ebdcc68f88946ba52` nas duas capturas. O HTML e o PDF foram cotejados; apenas o bloco da ANPD foi transcrito. O processo 00261.001880/2022-84 foi identificado, mas não recebeu ID. O lote soma **1 registro e um órgão**; resoluções, guias e o processo permanecem fora.
 
 ## TRF06 — teses e representativo próprios da TRU
 
@@ -340,15 +358,18 @@ A CGE/GO hospeda o catálogo; a PGE/GO é a emissora. Atos, normas, pareceres e 
 | [MPF — Enunciados da 2ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr2/enunciados) | 115 | 115 | 0 |
 | [MPF — Enunciados da 4ª Câmara de Coordenação e Revisão](https://www.mpf.mp.br/atuacao/ccr4/enunciados) | 84 | 83 | 1 |
 | [ANTT — Súmulas no ANTTlegis](https://anttlegis.antt.gov.br/action/ActionDatalegis.php?acao=recuperarTematicasCollapse&cod_modulo=429&cod_menu=7216) | 14 | 14 | 0 |
+| [ANTAQ — Súmulas administrativas 01/2025 e 01/2004](https://sophia.antaq.gov.br/Terminal/acervo/detalhe/38373) | 2 | 2 | 0 |
 | [ANM — Súmulas da Diretoria Colegiada](https://anmlegis.datalegis.net/action/ActionDatalegis.php?acao=abrirResenhaAnoData&cod_menu=11110&cod_modulo=351) | 18 | 18 | 0 |
 | [ANS — páginas da BVS com texto integral das súmulas normativas](https://bvsms.saude.gov.br/bvs/saudelegis/ans/2022/sum0030_04_05_2022.html) | 21 | 21 | 0 |
 | [ANAC — Súmulas Administrativas](https://www.anac.gov.br/Anac/assuntos/legislacao/legislacao-1/sumulas-administrativas/) | 3 | 3 | 0 |
 | [ANP — Súmulas no DOU, consulta de 30/10/2026](https://www.in.gov.br/consulta/-/buscar/dou?q=S%C3%BAmula&s=do1&exactDate=all&sortType=0&delta=50&artType=S%C3%BAmula&orgPrin=Minist%C3%A9rio+de+Minas+e+Energia&orgSub=Ag%C3%AAncia+Nacional+do+Petr%C3%B3leo%2C+G%C3%A1s+Natural+e+Biocombust%C3%ADveis) | 7 nessa consulta; a mesma com termo vazio devolveu 0 | 7 | 0 |
+| [ANPD — Enunciado CD/ANPD nº 1/2023](https://www.gov.br/anpd/pt-br/acesso-a-informacao/institucional/atos-normativos/regulamentacoes_anpd) | 1 | 1 | 0 |
 | [ANVISA — consultas de 30/10/2026 no DOU e no AnvisaLegis](https://www.in.gov.br/consulta/-/buscar/dou?q=S%C3%BAmula&s=do1&exactDate=all&sortType=0&delta=50&artType=S%C3%BAmula&orgPrin=Minist%C3%A9rio+da+Sa%C3%BAde&orgSub=Ag%C3%AAncia+Nacional+de+Vigil%C3%A2ncia+Sanit%C3%A1ria) | 0 súmulas próprias nestas consultas | 0 | 0 |
 | [ANATEL — Súmulas do Conselho Diretor](https://informacoes.anatel.gov.br/legislacao/sumulas) | 27 localizados pelo leitor; total da série não confirmado | 27 | 0 |
 | [CMRI — Súmulas dos catálogos de vigentes e revogados](https://www.gov.br/casacivil/pt-br/assuntos/colegiados/comissao-mista-de-reavaliacao-de-informacoes-cmri/normativos-vigentes) | 8 | 8 | 0 |
 | [CNIC — Enunciados de súmula administrativa](https://www.gov.br/cultura/pt-br/acesso-a-informacao/legislacao-e-normativas/sumulas-da-comissao-nacional-de-incentivo-a-cultura) | 33 | 33 | 0 |
 | [CADE — Súmulas históricas do catálogo](https://www.gov.br/cade/pt-br/acesso-a-informacao/normas-e-legislacao/sumulas) | 6 | 6 | 0 |
+| [CFC — Ementas das súmulas 1 a 16](https://cfc.org.br/legislacao/sumulas) | 16 | 16 | 0 |
 | [ARCE — Controle de Súmulas](https://www.arce.ce.gov.br/wp-content/uploads/sites/53/2018/11/Controle-Sumulas-ARCE.pdf) | 25 | 25 | 0 |
 | [ANEEL — Súmulas](https://www.gov.br/aneel/pt-br/centrais-de-conteudos/sumulas) | 17 | 17 | 0 |
 | [PGE/AP — Súmulas Administrativas](https://pge.portal.ap.gov.br/conteudo/legislacao/sumulas) | 18 | 18 | 0 |
@@ -1332,14 +1353,17 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [CNMP](tribunais/CNMP/) | 96 | CNMP — CALJ e 1º/2º Congressos de Defesa da Integridade |
 | [MPF](tribunais/MPF/) | 430 | MPF — Enunciados do Conselho Institucional, das 1ª, 2ª, 3ª, 4ª, 5ª, 6ª e 7ª CCRs, GTSI, conjuntos e PFDC, HTML oficial com histórico |
 | [ANTT](tribunais/ANTT/) | 14 | ANTT — Súmulas SAM do ANTTlegis, com selo e nota de revogação |
+| [ANTAQ](tribunais/ANTAQ/) | 2 | ANTAQ — Súmulas administrativas 01/2025 e 01/2004 no Sophia |
 | [ANM](tribunais/ANM/) | 18 | ANM — Súmulas da Diretoria Colegiada |
 | [ANS](tribunais/ANS/) | 21 | ANS — Súmulas normativas com texto integral na BVS/Saúde Legis |
 | [ANAC](tribunais/ANAC/) | 3 | ANAC — Súmulas administrativas, fichas e atos de aprovação |
 | [ANP](tribunais/ANP/) | 7 | ANP — Sete súmulas publicadas no DOU |
+| [ANPD](tribunais/ANPD/) | 1 | ANPD — Enunciado CD/ANPD nº 1/2023 no DOU e na página de regulamentações |
 | [ANATEL](tribunais/ANATEL/) | 27 | Anatel — textos integrais localizados no catálogo; nº 20 sem página integral confirmada nesta coleta |
 | [CMRI](tribunais/CMRI/) | 8 | CMRI — Nove PDFs oficiais, com histórico da nº 3 |
 | [CNIC](tribunais/CNIC/) | 33 | CNIC / Ministério da Cultura — Enunciados e notas do HTML oficial |
 | [CADE](tribunais/CADE/) | 6 | CADE — PDFs das súmulas históricas nºs 4 a 9 |
+| [CFC](tribunais/CFC/) | 16 | CFC — Ementas das súmulas 1 a 16 no PDF oficial de 2022 |
 | [ARCE](tribunais/ARCE/) | 25 | ARCE — Controle de Súmulas |
 | [ANEEL](tribunais/ANEEL/) | 17 | ANEEL — Assuntos e notas do catálogo de súmulas |
 | [PGERJ](tribunais/PGERJ/) | 55 | PGE/RJ — Enunciados próprios |
@@ -1398,7 +1422,7 @@ A coluna Acervo inclui as fontes diretas. As contagens do BNP são conferidas se
 | [TCEAP](tribunais/TCEAP/) | 68 | TCEAP — Respostas a consultas, decisões, relatórios e votos |
 | [TCU](tribunais/TCU/) | 293 | TCU — Súmulas de jurisprudência |
 
-PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPES, MPCSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANM, ANS, ANAC, ANP, ARCE, CMRI, CNIC, CADE, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
+PGEES, MPBA, MPMS, MPAC, MPAM, MPDFT, MPMG, MPRJ, MPSP, MPRS, MPSC, MPES, MPCSC, MPMA, CNMP, MPF, MPM, MPCE, MPGO, ANTT, ANTAQ, ANM, ANS, ANAC, ANP, ANPD, ARCE, CMRI, CNIC, CADE, CFC, ANEEL, PGEAP, PGEAL, PROCONPB, PGMJOINVILLE, CGEMG, TARFRS, PGERJ, PGERS, PGEPI, CRFPB, TATEPE, CATGO, PGEGO, PGESP, CCMG, TITSP, CRPS, CRSFN, CRSNSP, AGU, CARF, TCU, TCESP, TCEMG, TCESC, TCEPR, TCEES, TCEBA, TCEGO, TCECE, TCEPE, TCERJ, TCERN, TCEMS, TCEAL, TCEPI, TCDF, TCERO, TCEPB, TCETO, TCEAM, TCEMA, TCEPA, TCEAC, TCERS, TCEMT, TCMGO, TCMRJ, TCMSP, TCMPA, TCMBA, TCESE, TCERR e TCEAP são fontes administrativas próprias. TAMG é o extinto Tribunal de Alçada de Minas Gerais, cujo acervo histórico é preservado pelo TJMG. Esses órgãos não integram o catálogo judicial consultado do BNP. Zero no BNP não significa inexistência de precedentes naquele órgão.
 
 ## TRF04 — I Jornada Intrainstitucional de Direito Previdenciário
 
