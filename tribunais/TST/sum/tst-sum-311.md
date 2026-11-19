@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 311
 - **Identificador:** `tst-sum-311`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada por perda de eficácia considerando a decisão da ADI 5867, ADI 6012, ADC 58 e ADC 59, a partir da publicação da ata de julgamento dos embargos de declaração em 09.12.2021)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

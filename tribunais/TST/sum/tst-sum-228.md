@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 228
 - **Identificador:** `tst-sum-228`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada por perda de eficácia considerando a decisão da Rcl 6266, a partir da publicação em 18/04/2018)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

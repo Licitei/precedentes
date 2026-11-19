@@ -1,13 +1,13 @@
 # Inventário estrutural por órgão
 
-**Recontagem estrutural de 05/11/2026: 43.995 IDs únicos em 212 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
+**Recontagem estrutural de 19/11/2026: 44.053 IDs únicos em 215 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
 | Órgão | Identidades registradas |
 | --- | ---: |
 | [AGEMG](AGEMG/) | 42 |
-| [AGU](AGU/) | 2.116 |
+| [AGU](AGU/) | 2.132 |
 | [ANAC](ANAC/) | 3 |
 | [ANATEL](ANATEL/) | 27 |
 | [ANCINE](ANCINE/) | 20 |
@@ -28,12 +28,14 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [CJF](CJF/) | 1.872 |
 | [CMRI](CMRI/) | 8 |
 | [CNIC](CNIC/) | 33 |
+| [CNJ](CNJ/) | 29 |
 | [CNMP](CNMP/) | 96 |
 | [CNPG](CNPG/) | 87 |
 | [CRFPB](CRFPB/) | 4 |
 | [CRPS](CRPS/) | 19 |
 | [CRSFN](CRSFN/) | 6 |
 | [CRSNSP](CRSNSP/) | 11 |
+| [CVM](CVM/) | 41 |
 | [ENFAM](ENFAM/) | 62 |
 | [FONACOM](FONACOM/) | 76 |
 | [FONACON](FONACON/) | 18 |

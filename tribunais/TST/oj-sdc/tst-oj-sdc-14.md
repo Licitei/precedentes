@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial da SDC
 - **Número:** 14
 - **Identificador:** `tst-oj-sdc-14`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada) - DJ 02.12.2003”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

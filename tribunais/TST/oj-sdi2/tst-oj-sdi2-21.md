@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial da SBDI-II
 - **Número:** 21
 - **Identificador:** `tst-oj-sdi2-21`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(nova redação) - DJ 22.08.2005”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

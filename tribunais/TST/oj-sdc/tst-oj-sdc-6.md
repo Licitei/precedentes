@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial da SDC
 - **Número:** 6
 - **Identificador:** `tst-oj-sdc-6`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada pela SDC em sessão de 10.08.2000, no julgamento do RODC 604502/1999-8)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 
