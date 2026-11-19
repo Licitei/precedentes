@@ -1,6 +1,6 @@
 # Inventário estrutural por órgão
 
-**Recontagem estrutural de 19/11/2026: 44.314 IDs únicos em 227 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
+**Recontagem estrutural de 19/11/2026: 44.346 IDs únicos em 228 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
@@ -76,10 +76,11 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [MPPB](MPPB/) | 12 |
 | [MPPE](MPPE/) | 8 |
 | [MPPI](MPPI/) | 16 |
+| [MPPR](MPPR/) | 9 |
 | [MPRJ](MPRJ/) | 83 |
 | [MPRN](MPRN/) | 31 |
 | [MPRS](MPRS/) | 206 |
-| [MPSC](MPSC/) | 25 |
+| [MPSC](MPSC/) | 48 |
 | [MPSE](MPSE/) | 54 |
 | [MPSP](MPSP/) | 80 |
 | [MPT](MPT/) | 36 |
@@ -238,4 +239,4 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [TRT24](TRT24/) | 99 |
 | [TSE](TSE/) | 73 |
 | [TST](TST/) | 1.613 |
-| **Total** | **44.314** |
+| **Total** | **44.346** |
