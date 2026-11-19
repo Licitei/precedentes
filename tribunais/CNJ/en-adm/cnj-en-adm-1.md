@@ -1,0 +1,77 @@
+# CNJ · Enunciado Administrativo 1 — 15/12/2005
+
+- **Órgão:** Conselho Nacional de Justiça — CNJ
+- **Sigla no acervo:** CNJ
+- **Espécie:** Enunciado Administrativo
+- **Número:** 1
+- **Data no catálogo:** 15/12/2005
+- **Identificação no catálogo:** Enunciado Administrativo Nº 1 de 15/12/2005
+- **Identificador:** `cnj-en-adm-1`
+- **Situação na fonte:** O catálogo registra “Alterado”; o campo “Alteração” lista os atos posteriores.
+- **Situação STF no catálogo:** ---
+- **Ementa no catálogo:** Dispõe sobre as vedações constantes na Resolução CNJ nº 7, de 18 de outubro de 2005, relativas à prática de nepotismo. (redação dada pela Divisão de Organização e Normatização)
+- **Fonte:** [Enunciado Administrativo nº 1 de 15/12/2005](https://atos.cnj.jus.br/atos/detalhar/895)
+- **Catálogo:** [Enunciados Administrativos do CNJ](https://atos.cnj.jus.br/atos?atos=sim&tipoAto%5B0%5D=10&numero=%25)
+- **Publicação registrada no catálogo:** DJ, de 15/12/2005 - Seção 1
+- **Alteração registrada no catálogo:** Enunciado Administrativo nº 23, de 23 de junho de 2020. Enunciado Administrativo nº 1, de 8 de setembro de 2008. Enunciado Administrativo nº 1, de 25 de abril de 2006. Enunciado Administrativo nº 1, de 11 de abril de 2006.
+- **Legislação correlata registrada no catálogo:** Ato das Disposições Constitucionais Transitórias. Art. 19 Resolução nº 07, de 18 de outubro de 2005. Art. 2º, §1º, 3º
+- **SHA-256 do HTML:** `cd96662168629b1bccb281997bda8b4d5ca9e4826675990c7fcd97087b7d5b50`
+- **Tamanho do HTML:** 13.615 bytes
+- **Capturas do HTML:** duas, em 19/11/2026, bytes idênticos
+- **PDF oficial:** não vinculado; o endereço “Texto Original” aponta para `../../files/` sem arquivo
+
+## Texto do ato
+
+Enunciado Administrativo nº 1 - Nepotismo
+
+"A) As vedações constantes dos arts. 2º e 3º da Resolução nº 07, de 18 de outubro de 2005, abrangem o parentesco natural e civil, na linha reta e colateral, até o terceiro grau, inclusive, e o parentesco por afinidade, na linha reta ou colateral, alcançando ainda o parente colateral de terceiro grau, do cônjuge ou companheiro dos membros e juízes vinculados ao Tribunal.
+
+B) Para os fins do disposto no § 1º do art. 2º da Resolução nº 7, de 18 de outubro de 2005, são equiparados aos servidores admitidos por concurso público ocupantes de cargo de provimento efetivo das carreiras judiciárias:
+
+I - os empregados públicos do Poder Judiciário contratados por prazo indeterminado, providos os respectivos empregos mediante concurso público, por expressa previsão legal;
+
+II - os empregados públicos do Poder Judiciário contratados por prazo indeterminado antes da Constituição Federal de 1988, providos os respectivos empregos sem concurso público, e que foram considerados estáveis pelo art. 19 do Ato das Disposições Constitucionais Transitórias; e
+
+III - os servidores públicos do Poder Judiciário contratados por prazo indeterminado antes da Constituição Federal de 1988, providos os respectivos empregos sem concurso público, e que em face da mudança de regime jurídico único tiveram os referidos empregos transformados em cargos, por expressa previsão legal.
+
+~~C) As vedações previstas no art. 2º da Resolução nº 07, de 18 de outubro de 2005, não se aplicam quando a designação ou a nomeação do servidor tido como parente para a ocupação de cargo comissionado ou de função gratificada foram anteriores ao ingresso do magistrado ou do servidor gerador da incompatibilidade, bem como quando o início da união estável ou o casamento forem posteriores ao tempo em que ambos os cônjuges ou companheiros já estavam no exercício das funções/cargos, em situação que não caracterize ajuste prévio para burlar a proibição geral de prática de nepotismo.~~
+
+C) As vedações previstas no art. 2º da Resolução nº. 07, de 18 de outubro de 2005, não se aplicam quando a designação ou a nomeação do servidor tido como parente para a ocupação de cargo comissionado ou de função gratificada foram anteriores ao ingresso do magistrado ou do servidor gerador da incompatibilidade, bem como quando o início da união estável ou o casamento forem posteriores ao tempo em que ambos os cônjuges ou companheiros já estavam no exercício das funções/cargos, em situação que não caracterize ajuste prévio para burlar a proibição geral de prática de nepotismo, ressalvada a vedação prevista no § 1º, in fine, do art. 2º da referida Resolução. (Redação dada pelo Enunciado Administrativo nº 1, de 25.4.06)
+
+D) O vínculo de parentesco com magistrado ou com servidor investido em cargo de direção ou de assessoramento já falecidos ou aposentados não é considerado situação geradora de incompatibilidade para efeito de aplicação do art. 2º da Resolução nº 07, de 18 de outubro de 2005.
+
+E) Os antigos vínculos conjugal e de união estável com magistrado ou com servidor investido em cargo de direção ou de assessoramento não são considerados hipóteses geradoras de incompatibilidade para efeito de aplicação do art. 2º da Resolução nº 07, de 18 de outubro de 2005, desde que a dissolução da referida sociedade conjugal ou de fato não tenha sido levada a efeito em situação que caracterize ajuste para burlar a proibição geral de prática de nepotismo".
+
+"F) Para caracterização das hipóteses de nepotismo, previstas no art. 2º da Resolução nº 07/2005, o âmbito de jurisdição dos tribunais superiores abrange todo o território nacional, compreendendo: a) para o STJ, são alcançados pela incompatibilidade os parentes e familiares dos respectivos membros perante o próprio tribunal superior e todos os Tribunais Regionais Federais, Tribunais de Justiça, Varas Federais e Varas Estaduais; b) para o TSE, são alcançados pela incompatibilidade os parentes e familiares dos respectivos membros perante o próprio tribunal superior e todos os Tribunais Regionais Eleitorais e Zonas Eleitorais; c) para o STM, são alcançados pela incompatibilidade os parentes e familiares dos respectivos membros perante o próprio tribunal superior e todas as auditorias de correição militares, conselhos de justiça militares e juízos-auditores militares; e d) para o TST, são alcançados pela incompatibilidade os parentes e familiares dos respectivos membros perante o próprio tribunal superior e todos os Tribunais Regionais do Trabalho e Varas do Trabalho."
+
+G) Para os fins do disposto no inciso I do art. 2º da Resolução nº 07, a incompatibilidade no tocante aos juízes está vinculada ao limite territorial do tribunal a que estejam vinculados, sem prejuízo da proibição constante do respectivo inciso II, quanto ao chamado nepotismo cruzado.
+
+H) No âmbito dos Tribunais Regionais Eleitorais, tendo em vista a peculiaridade de sua composição, também constitui fato gerador da incompatibilidade definida no inciso I do art. 2º da Resolução nº 07 a relação de matrimônio, convivência e parentesco com juiz ou membro de Tribunal de Justiça ou de Tribunal Regional Federal, com jurisdição no mesmo limite territorial.
+
+~~I)¹ Para os fins do disposto no inciso III do art. 2º da Resolução nº 07, considera-se como situação geradora de incompatibilidade aquela em que haja relação de subordinação hierárquica.~~
+
+~~¹ Revogado conforme CONSULTA n° 0002482-33.2009.2.00.0000~~
+
+I) Para os fins do disposto no inciso III do art. 2º da Resolução nº 07, considera-se como situação geradora de incompatibilidade aquela em que haja relação de parentesco, com potencialidade de interferir no processo de nomeação. (Redação dada pelo Enunciado Administrativo nº 23, de 23.6.2020)
+
+J) Para a definição do alcance da expressão "cargo de direção ou de assessoramento" constante no inciso III do art. 2º da Resolução nº 07, deverão ser consideradas a natureza e as atribuições do cargo, independentemente da nomenclatura adotada.
+
+K) Os cargos de provimento efetivo de carreiras do Poder Executivo, do Poder Legislativo e do Ministério Público não são equiparáveis aos cargos das carreiras judiciárias, para os efeitos do disposto no § 1º do art. 2º da Resolução nº 07.
+
+L) Para os fins do disposto no art. 5º da Resolução nº 07 de 18 de outubro de 2005, fica a critério do Presidente do Tribunal a escolha do servidor que deverá ser exonerado para extinguir a relação de nepotismo, não cabendo ao Conselho Nacional de Justiça pronunciar-se quanto a tal escolha.
+
+M) Não se aplica administrativamente qualquer prazo decadencial ou prescricional para impedir as exonerações determinadas pela Resolução nº 07
+
+N) O servidor inativo do Poder Judiciário, quando no exercício do cargo em comissão ou função gratificada, é equiparado ao servidor não efetivo.
+
+O) Aplica-se a Resolução 7 deste CNJ às nomeações não-concursadas para serventias extrajudiciais.
+
+## Conferência e limites
+
+O texto é o do HTML oficial da página de detalhe do ato, não de resumo de catálogo. Duas capturas HTTP 200 em 19/11/2026 têm os mesmos 13.615 bytes e o mesmo SHA-256. Foram normalizados espaços de justificação e quebras de linha internas. Nenhum caractere do corpo foi corrigido, completado ou parafraseado. Negrito e itálico não foram reproduzidos; quando o original traz risco, ele foi marcado com `~~`.
+
+Não há PDF vinculado: na página, o endereço “Texto Original” aponta para `../../files/` sem arquivo. O corpo transcrito é o do HTML oficial.
+
+O corpo traz a redação original e, no mesmo ato, a alínea C) riscada e a nova alínea C) com a nota “(Redação dada pelo Enunciado Administrativo nº 1, de 25.4.06)”. Também traz a alínea I) riscada, a nota de revogação pela Consulta nº 0002482-33.2009.2.00.0000 e a nova alínea I) com a redação do Enunciado nº 23/2020. Os dois riscos foram marcados em Markdown. O campo “Alteração” lista os Enunciados nº 1 de 11/04/2006, 25/04/2006 e 08/09/2008 e o nº 23/2020.
+
+Leis, resoluções, emendas, precedentes e processos apenas citados permanecem neste registro e não geraram identificadores. Não há CPF, RG, matrícula nem código pessoal no texto incorporado. Nomes e funções públicas foram preservados. A situação registrada é a do catálogo e não foi convertida em conclusão independente de vigência ou de efeito vinculante. Esta ficha não esgota os atos do CNJ.
