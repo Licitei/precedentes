@@ -49,4 +49,28 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Texto do ato vinculado — Resolução Administrativa nº 2/2024
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/1063901/RA%2002.2024%20-%20Cancel%20S%C3%BAmula%2099.pdf) — captura HTTP 200 em 19/11/2026; 98802 bytes; SHA-256 `1a06644792778afb2f2ffb5df8afafb358ca7401bc8fb17eb2628720bc18b4e3`.
+
+PODER JUDICIÁRIO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO
+
+RESOLUÇÃO ADMINISTRATIVA Nº 02/2024
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO, na sessão e plenária e extraordinária realizada nesta data, no uso de suas atribuições legais e regimentais, RESOLVE, por unanimidade, CANCELAR a Súmula nº 99 deste Tribunal, aprovada pela Resolução Administrativa nº 41/2016.
+
+Tomaram parte na sessão os Exmos. Desembargadores Rosane Serafini Casa Nova, Ana Luiz Heineck Kruse, Ricardo Carvalho Fraga, Luiz Alberto de Vargas, Beatriz Renck, Carmen Izabel Centena Gonzalez, Emílio Papaléo Zin, Alexandre Corrêa da Cruz, Maria da Graça Ribeiro Centeno, Marçal Henri dos Santos Figueiredo, Rejane Souza Pedra, Francisco Rossal de Araújo, Maria Madalena Telesca, Tânia Regina Silva Reckziegel, Laís Helena Jaeger Nicotti, Gilberto Souza dos Santos, João Paulo Lucena, Fernando Luiz de Moura Cassal, Brígida Joaquina Charão Barcelos, João Batista de Matos Danda, Fabiano Holz Beserra, Janney Camargo Bina, Marcos Fagundes Salomão, Manuel Cid Jardon, Roger Ballejo Villarinho, Simone Maria Nunes, Rosiul de Freitas Azambuja, Carlos Alberto May, Luciane Cardoso Barzotto, Luis Carlos Pinto Gastal, sob a presidência do Exmo. Desembargador Ricardo Hofmeister de Almeida Martins Costa. Presente pelo Ministério Público do Trabalho Dra. Denise Maria Schellenberguer Fernandes. Porto Alegre, 01 de março de 2024.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+CERTIDÃO
+
+CERTIFICO que a presente Resolução Administrativa, disponibilizada no DEJT dos dias 06, 07 e 08.03.2024, é considerada publicada nos dias 07, 08 e 11.03.2024. Dou fé. Em 11 de março de 2024.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial e da SDC
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

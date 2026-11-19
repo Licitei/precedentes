@@ -1,6 +1,6 @@
 # TRT07 · Incidente de Resolução de Demandas Repetitivas
 
-**21 registros.** [Voltar ao tribunal](../)
+**22 registros.** [Voltar ao tribunal](../)
 
 - [IRDR 1](trt07-irdr-1.md) — Transitado em julgado
 - [IRDR 2](trt07-irdr-2.md) — Não admitido
@@ -23,3 +23,8 @@
 - [IRDR 19](trt07-irdr-19.md) — Não admitido
 - [IRDR 20](trt07-irdr-20.md) — Admitido
 - [IRDR 21](trt07-irdr-21.md) — Suscitado
+- [IRDR 22](trt07-irdr-22.md) — Suscitado
+
+## Cotejo com o catálogo próprio — 19/11/2026
+
+As teses firmadas em IRDR listadas pelo tribunal (nºs 0001, 0006, 0007, 0008 e 0012, página atualizada em 23/02/2026) foram incorporadas às fichas correspondentes com os precedentes e as divergências de apresentação atribuídas, incluindo a revisão da tese nº 0007 e a grafia do processo na linha de precedente do IRDR 12. A reconsulta do Pangea/BNP em 19/11/2026 registrou reordenação de numeração: o processo coletado como IRDR 20 passou a ser exibido como IRDR 23 (reautuado do IAC 12) e o processo coletado como IRDR 21 passou a ser exibido como IRDR 20; a posição IRDR 21 passou a exibir o processo 0003975-05.2026.5.07.0000, ainda sem ficha própria. O IRDR 22 (0004087-71.2026.5.07.0000) foi acrescentado nesta data com base na exibição atual do BNP. Nenhuma ficha foi renumerada ou fundida; as situações permanecem atribuídas às fontes nas datas de captura.

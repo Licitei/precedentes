@@ -1,6 +1,6 @@
 # Inventário estrutural por órgão
 
-**Recontagem estrutural de 19/11/2026: 44.175 IDs únicos em 217 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
+**Recontagem estrutural de 19/11/2026: 44.471 IDs únicos em 231 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
@@ -14,13 +14,17 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [ANEEL](ANEEL/) | 17 |
 | [ANM](ANM/) | 18 |
 | [ANP](ANP/) | 7 |
+| [ANPD](ANPD/) | 1 |
 | [ANS](ANS/) | 32 |
+| [ANTAQ](ANTAQ/) | 2 |
 | [ANTT](ANTT/) | 14 |
 | [ARCE](ARCE/) | 25 |
 | [CADE](CADE/) | 6 |
 | [CARF](CARF/) | 254 |
 | [CATGO](CATGO/) | 15 |
 | [CCMG](CCMG/) | 7 |
+| [CFC](CFC/) | 16 |
+| [CFOAB](CFOAB/) | 36 |
 | [CFM](CFM/) | 81 |
 | [CGECE](CGECE/) | 73 |
 | [CGEMG](CGEMG/) | 15 |
@@ -31,6 +35,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [CNJ](CNJ/) | 29 |
 | [CNMP](CNMP/) | 96 |
 | [CNPG](CNPG/) | 87 |
+| [CNPGC](CNPGC/) | 20 |
 | [CRFPB](CRFPB/) | 4 |
 | [CRPS](CRPS/) | 19 |
 | [CRSFN](CRSFN/) | 6 |
@@ -55,7 +60,10 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [MPAP](MPAP/) | 17 |
 | [MPBA](MPBA/) | 10 |
 | [MPCE](MPCE/) | 34 |
+| [MPCMG](MPCMG/) | 1 |
+| [MPCRS](MPCRS/) | 7 |
 | [MPCSC](MPCSC/) | 2 |
+| [MPCSP](MPCSP/) | 4 |
 | [MPDFT](MPDFT/) | 129 |
 | [MPES](MPES/) | 32 |
 | [MPF](MPF/) | 430 |
@@ -69,23 +77,26 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [MPPB](MPPB/) | 12 |
 | [MPPE](MPPE/) | 8 |
 | [MPPI](MPPI/) | 16 |
+| [MPPR](MPPR/) | 9 |
 | [MPRJ](MPRJ/) | 83 |
 | [MPRN](MPRN/) | 31 |
 | [MPRS](MPRS/) | 206 |
-| [MPSC](MPSC/) | 25 |
+| [MPSC](MPSC/) | 48 |
 | [MPSE](MPSE/) | 54 |
 | [MPSP](MPSP/) | 80 |
 | [MPT](MPT/) | 36 |
+| [MPTO](MPTO/) | 31 |
 | [PGDF](PGDF/) | 18 |
 | [PGEAL](PGEAL/) | 43 |
+| [PGEAM](PGEAM/) | 5 |
 | [PGEAP](PGEAP/) | 18 |
 | [PGECE](PGECE/) | 24 |
 | [PGEES](PGEES/) | 58 |
 | [PGEGO](PGEGO/) | 129 |
 | [PGEMS](PGEMS/) | 55 |
 | [PGEMT](PGEMT/) | 49 |
-| [PGEPA](PGEPA/) | 38 |
-| [PGEPB](PGEPB/) | 3 |
+| [PGEPA](PGEPA/) | 40 |
+| [PGEPB](PGEPB/) | 4 |
 | [PGEPE](PGEPE/) | 4 |
 | [PGEPI](PGEPI/) | 66 |
 | [PGEPR](PGEPR/) | 102 |
@@ -96,7 +107,11 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [PGESE](PGESE/) | 1 |
 | [PGESP](PGESP/) | 23 |
 | [PGFN](PGFN/) | 20 |
+| [PGMBH](PGMBH/) | 35 |
+| [PGMFLORIANOPOLIS](PGMFLORIANOPOLIS/) | 9 |
 | [PGMJOINVILLE](PGMJOINVILLE/) | 6 |
+| [PGMMACEIO](PGMMACEIO/) | 34 |
+| [PGMRIO](PGMRIO/) | 47 |
 | [PROCONES](PROCONES/) | 27 |
 | [PROCONPB](PROCONPB/) | 4 |
 | [PROCONSP](PROCONSP/) | 3 |
@@ -207,7 +222,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [TRT04](TRT04/) | 328 |
 | [TRT05](TRT05/) | 134 |
 | [TRT06](TRT06/) | 80 |
-| [TRT07](TRT07/) | 406 |
+| [TRT07](TRT07/) | 408 |
 | [TRT08](TRT08/) | 143 |
 | [TRT09](TRT09/) | 232 |
 | [TRT10](TRT10/) | 106 |
@@ -227,4 +242,4 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [TRT24](TRT24/) | 99 |
 | [TSE](TSE/) | 73 |
 | [TST](TST/) | 1.613 |
-| **Total** | **43.909** |
+| **Total** | **44.471** |

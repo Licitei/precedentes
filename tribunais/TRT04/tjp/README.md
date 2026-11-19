@@ -11,3 +11,7 @@
 - [TJP 7](trt04-tjp-7.md) — Situação não informada
 - [TJP 8](trt04-tjp-8.md) — Situação não informada
 - [TJP 9](trt04-tjp-9.md) — Situação não informada
+
+## Ato de cancelamento — 19/11/2026
+
+A Resolução Administrativa nº 45/2025, que cancela a Tese Jurídica Prevalecente nº 6 (aprovada pela RA 69/2016), foi obtida em PDF oficial com camada textual e transcrita integralmente na ficha, com URL, data de captura, tamanho e SHA-256. As demais teses permanecem sem marcação de cancelamento no catálogo; os atos de edição/aprovação das teses continuam pendentes de coleta.

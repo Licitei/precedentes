@@ -16,4 +16,8 @@ IAC 0003562-89.2026.5.07.0000 I - Primeira questão — Competência Material- C
 
 - [00035628920265070000](http://)
 
+## Nota de reconsulta do BNP — 19/11/2026
+
+Na reconsulta do Pangea/BNP em 19/11/2026, o registro mantém a situação “Admitido”, com atualização informada em 18/11/2026 (o cabeçalho desta ficha registrou atualização 20/10/2026). A questão exibida coincide no conteúdo com a registrada acima, com diferença de separadores: a exibição atual usa “;” onde a coleta registrada usava “—” (por exemplo, “II - Segunda questão ;” contra “II - Segunda questão —”). As duas grafias permanecem atribuídas à fonte BNP nas respectivas capturas, sem preferência.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

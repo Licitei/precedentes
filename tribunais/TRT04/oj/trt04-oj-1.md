@@ -48,4 +48,24 @@ Precedentes:
 
 [0178500-31.1992.5.04.0811 (AP)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/V-iWUXa0m116uGnfiQI_iQ)
 
+## Texto do ato vinculado — RESOLUÇÃO Nº 12/2017
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/896100/ResoluAcAao_12-2017.pdf) — captura HTTP 200 em 19/11/2026; 54432 bytes; SHA-256 `5ebb146ba91d9e98b079029d875ff21381730648ed8157b6cdbfbdceb34788c9`.
+
+RESOLUÇÃO Nº 12/2017
+
+CERTIFICO que a Seção Especializada em Execução do Tribunal Regional do Trabalho da 4ª Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária realizada nesta data, resolveu, por unanimidade de votos, determinar o cancelamento do item I da Orientação Jurisprudencial nº 01 e a renumeração dos itens II e III da mesma orientação jurisprudencial, sendo que o item II passará a ser o de número I e o item III passará a ser o de número II, com a seguinte redação:
+
+ORIENTAÇÃO JURISPRUDENCIAL Nº 1 - EXECUÇÃO DAS CONTRIBUIÇÕES
+
+PREVIDENCIÁRIAS NA JUSTIÇA DO TRABALHO.
+
+I - CONTRIBUIÇÃO PARA TERCEIROS. COMPETÊNCIA. A Justiça do Trabalho não tem competência para determinar o recolhimento das contribuições sociais destinadas a terceiros.
+
+II - CONTRIBUIÇÕES PARA O SAT. COMPETÊNCIA. A Justiça do Trabalho é competente para executar as contribuições para o custeio do benefício de aposentadoria especial e daqueles concedidos em razão do grau de incidência de incapacidade laborativa decorrente dos riscos ambientais do trabalho (SAT).
+
+Tomaram parte na sessão os Exmos. Desembargadores Cleusa Regina Halfen, Ana Rosa Pereira Zago Sagrilo, Vania Mattos, Rejane Souza Pedra, Lucia Ehrenbrink, João Batista de Matos Danda e o Exmo. Juiz convocado Manuel Cid Jardon, sob a presidência do Exmo. Desembargador João Alfredo Borges Antunes de Miranda. Presente pelo Ministério Público do Trabalho o Dr. Paulo Eduardo Pinto de Queiroz. Dou fé. Porto Alegre, 08 de agosto de 2017. Márcia Lamberti Doval, Secretária da Seção Especializada em Execução.
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de alteração indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -44,4 +44,16 @@ Precedentes:
 
 [0084600-55.2002.5.04.0451 (AP)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/0K2G8ABfKjKaWAPxfjgiZQ)
 
+## Texto do ato vinculado — Resolução Administrativa nº 15/2005
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/43214/ra20050015_0.pdf) — captura HTTP 200 em 19/11/2026; 10877 bytes; SHA-256 `a8694e6cdf9bbe29111c9eb7089659677cc9f9bdda5815a20dc8c799af6a5f9b`.
+
+TRIBUNAL REGIONAL DO TRABALHO
+
+RESOLUÇÃO ADMINISTRATIVA Nº 15/2005
+
+CERTIFICO que o Tribunal Regional do Trabalho da Quarta Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária e plenária, realizada nesta data, resolveu, por unanimidade de votos, cancelar a SÚMULA Nº 34 deste Tribunal, aprovada pela Resolução Administrativa nº 08/2004. Tomaram parte na sessão os Exmos. Juízes Paulo José da Rocha, Mario Chaves, Pedro Luiz Serafini, Denis Marcelo de Lima Molarinho, João Ghisleni Filho, Maria Guilhermina Miranda, Carlos Alberto Robinson, Jane Alice de Azevedo Machado, Beatriz Zoratto Sanvicente, Juraci Galvão Júnior, Rosane Serafini Casa Nova, João Alfredo Borges Antunes de Miranda, Dionéia Amaral Silveira, Maria Helena Mallmann, Berenice Messias Corrêa, Milton Varela Dutra, Maria Inês Cunha Dornelles, Tânia Maciel de Souza, Leonardo Meurer Brasil, Cleusa Regina Halfen, Maria Beatriz Condessa Ferreira, Ana Rosa Pereira Zago Sagrilo, Denise Maria de Barros, Eurídice Josefina Bazo Tôrres, Ione Salin Gonçalves, Ricardo Carvalho Fraga, Hugo Carlos Scheuermann, José Felipe Ledur, Flávia Lorena Pacheco e João Pedro Silvestrin, sob a presidência do Exmo. Juiz Fabiano de Castilhos Bertoluci, Presidente deste Tribunal. Presente pelo Ministério Público do Trabalho a Dra. Silvana Ribeiro Martins. Dou fé. Porto Alegre, 26 de setembro de 2005. Cláudia Regina Schröder, Secretária do Tribunal Pleno e do Órgão Especial.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

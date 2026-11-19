@@ -40,4 +40,34 @@ Precedentes:
 
 [0000007-94.2012.5.04.0111 (AP)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/VB9jLo8y1QXuFbKRXYtrKw)
 
+## Texto do ato vinculado — RESOLUÇÃO Nº 01/2024
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/1064287/Resolu%C3%A7%C3%A3o%201-2024%20-%20cancelamento%20OJ%2050.pdf) — captura HTTP 200 em 19/11/2026; 84183 bytes; SHA-256 `028bbc4132f70ab85580630fd8df470acfc1c07094ea3545798bdc1e93633d9e`.
+
+RESOLUÇÃO SEEx Nº 01/2024
+
+CERTIFICO que a Seção Especializada em Execução do Tribunal Regional do Trabalho da 4ª Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária realizada nesta data, resolveu, por unanimidade, cancelar a Orientação Jurisprudencial nº   50   -   CONTRIBUIÇÃO       PREVIDENCIÁRIA.         PROCESSO   FALIMENTAR      OU RECUPERAÇÃO JUDICIAL. Inviabilidade do prosseguimento do processo de execução trabalhista para cobrança de contribuição previdenciária, parcela acessória, de empresa sujeita a processo falimentar ou recuperação judicial.
+
+Tomaram parte na sessão os Exmos. Desembargadores João Alfredo Borges Antunes de Miranda, Maria da Graça Ribeiro Centeno, Marcelo Gonçalves de Oliveira, Lucia Ehrenbrink, João Batista de Matos Danda, Janney Camargo Bina, Carlos Alberto May, Luis Carlos Pinto Gastal e o(a) Exmo(a). Procurador(a) do Trabalho, Thais Fidelis Alves Bruch, sob a presidência do Exmo. Desembargador João Alfredo Borges Antunes de Miranda. Dou fé. Porto Alegre, 30 de abril de 2024. Luís Antônio Amaral Apel, Secretário da Seção Especializada em Execução.
+
+Precedentes:
+
+0021662-52.2017.5.04.0401 (AP), julgado em 08/03/2024, publicado em 10/03/2024, Desembargador Luís Carlos Pinto Gastal; 0021013-79.2016.5.04.0124 (AP), julgado em 06/12/2023, publicado em 12/12/2023, Desembargador João Batista de Matos Danda ;
+
+0020241-44.2021.5.04.0641 (AP), julgado em 06/03/2024, publicado em 10/03/2024, Desembargador Marcelo Gonçalves de Oliveira;
+
+0020940-30.2017.5.04.0203 (AP), julgado em 20/12/2023, publicado em 23/01/2024, Desembargadora Maria da Graça Ribeiro Centeno.
+
+CERTIDÃO
+
+CERTIFICO e dou fé que a Resolução nº 01/2023 foi disponibilizada no DEJT dos dias 07, 10 e 11/06/2024 e considerada publicada nos dias 10, 11 e 12/06/2024. Em 14 de junho de 2024.
+
+Luís Antônio Amaral Apel
+
+Secretário
+
+Seção Especializada em Execução
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

@@ -24,4 +24,8 @@ Tese fixada: "É cabível a aplicação da fungibilidade recursal, na fase de ex
 
 [TRT7 — Teses Firmadas em IAC](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/teses-firmadas-em-iac) (página atualizada em 05/10/2026). A tese nº 0008 e o precedente 0004216-13.2025.5.07.0000 coincidem com o texto acima; a grafia “da fungibilidade” / “afastando-se” segue o catálogo do tribunal. A apresentação do BNP permanece atribuída à fonte BNP.
 
+## Nota de reconsulta do BNP — 19/11/2026
+
+Na reconsulta do Pangea/BNP em 19/11/2026, o registro mantém a atualização 16/10/2026 e a situação “Acórdão Publicado (Mérito)”, e passou a exibir o selo “Suspensão ativa” antes das demais informações, ausente do cabeçalho desta ficha. O selo é registrado como exibição da fonte nesta captura, sem inferência de efeito jurídico ou de alteração da situação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
