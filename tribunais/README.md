@@ -21,6 +21,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [CARF](CARF/) | 254 |
 | [CATGO](CATGO/) | 15 |
 | [CCMG](CCMG/) | 7 |
+| [CFOAB](CFOAB/) | 36 |
 | [CGECE](CGECE/) | 73 |
 | [CGEMG](CGEMG/) | 15 |
 | [CGU](CGU/) | 41 |
