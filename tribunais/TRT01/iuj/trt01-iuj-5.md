@@ -7,12 +7,13 @@
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TRT1 — Catálogo oficial de teses jurídicas](https://www.trt1.jus.br/teses-juridicas)
+- **Capturas:** duas respostas HTTP 200 idênticas em 19/11/2026; 7847 bytes; SHA-256 `3fee6d2b8d0514dd417fac97e43d94ac586f343c9c1c6061bf71497a44013e3d`
 
 ## Informações do catálogo oficial
 
 Texto integral do catálogo de teses jurídicas, com número da tese, tema, processo, relatoria, ementa, publicação e vínculos. A identidade do registro usa a espécie e o tema do incidente; o número próprio da tese permanece no texto. A situação reproduz a classe expressa do portal, e o tachado da cancelada foi preservado. A data de publicação não foi convertida em atualização individual.
 
-Duas leituras apresentaram os mesmos 13 verbetes: cinco IRDR e oito IUJ. A página informa que não há tese firmada em IAC; isso não foi interpretado como inexistência de incidentes. Links antigos de consulta genérica, números e aparentes inconsistências foram mantidos sem reconstrução. Os documentos vinculados e as demais séries do tribunal continuam pendentes de coleta e conciliação.
+Duas leituras apresentaram os mesmos 13 verbetes: cinco IRDR e oito IUJ. A página informa que não há tese firmada em IAC; isso não foi interpretado como inexistência de incidentes. Links antigos de consulta genérica, números e aparentes inconsistências foram mantidos sem reconstrução. Em 19/11/2026 o item da Biblioteca Digital foi reaberto e o documento da tese foi capturado por HTTP, em duas respostas idênticas, com camada de texto extraída por pdftotext; a transcrição está na seção “Documento da Biblioteca Digital”, com atribuição à Biblioteca Digital. O enunciado do PDF termina em “da CLT”, sem o ponto final que o campo do catálogo traz. O item não exibe campo “Vide Link”. As demais séries do tribunal permanecem pendentes de coleta e conciliação.
 
 ## Texto disponibilizado pela fonte
 
@@ -37,5 +38,15 @@ Duas leituras apresentaram os mesmos 13 verbetes: cinco IRDR e oito IUJ. A pági
 ## Processos paradigma
 
 - [0000125-57.2016.5.01.0000](http://consulta.trtrio.gov.br/portal/processoListar.do)
+
+## Documento da Biblioteca Digital
+
+[Biblioteca Digital TRT-1 — Tese nº 08 (PDF)](https://bibliotecadigital.trt1.jus.br/jspui/bitstream/1001/913459/1/TESE%20JUR%c3%8dDICA%20PREVALECENTE%20n%c3%bamero%208.pdf)
+
+TESE JURÍDICA PREVALECENTE – 08
+
+MULTA DO ART. 477 DA CLT. PLAUSIBILIDADE. HOMOLOGAÇÃO RESCISÓRIA.
+
+O depósito tempestivo das verbas resilitórias devidas ao empregado afasta a incidência da multa do art. 477 da CLT
 
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
