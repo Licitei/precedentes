@@ -72,10 +72,11 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [MPPB](MPPB/) | 12 |
 | [MPPE](MPPE/) | 8 |
 | [MPPI](MPPI/) | 16 |
+| [MPPR](MPPR/) | 9 |
 | [MPRJ](MPRJ/) | 83 |
 | [MPRN](MPRN/) | 31 |
 | [MPRS](MPRS/) | 206 |
-| [MPSC](MPSC/) | 25 |
+| [MPSC](MPSC/) | 48 |
 | [MPSE](MPSE/) | 54 |
 | [MPSP](MPSP/) | 80 |
 | [MPT](MPT/) | 36 |
