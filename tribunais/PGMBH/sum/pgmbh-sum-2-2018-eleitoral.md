@@ -14,6 +14,7 @@
 - **Capturas do ato:** duas respostas HTTP 200 em 19/11/2026; 24551 bytes cada; SHA-256 `e0f8ba9256576909f23e3ffa9e89ff959b1b8fca08a97719df1d3b413f8f2498`; dual-match=sim.
 - **Captura da página:** duas respostas HTTP 200 em 19/11/2026; 86182 bytes cada; SHA-256 `b5de1afede734d633881336b4227455992426dc57dcd61a9b4ac17b2dc539973`; dual-match=sim.
 - **Camada textual:** HTML oficial do DOM-BH; entidades decodificadas; nenhuma correção, paráfrase ou renumeração.
+- **Nota de literalidade:** o campo `titulo_ato` do JSON do DOM imprime “SÚMULA Nº 2 (ELEITORAL  2018)”, sem travessão; o corpo do ato imprime “SÚMULA Nº 2 (ELEITORAL – 2018)”. As duas formas ficam preservadas.
 
 ## Texto documental
 
