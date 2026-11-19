@@ -1,0 +1,27 @@
+# Erros já existentes nas fichas fazem este job falhar.
+# A saída lista a contagem por tipo e uma amostra.
+# Este passo não usa --readme-check.
+
+name: Validar fichas
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  validar:
+    name: python scripts/validar.py
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v7
+
+      - name: Instalar Python 3.12
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Validar fichas
+        run: python scripts/validar.py
