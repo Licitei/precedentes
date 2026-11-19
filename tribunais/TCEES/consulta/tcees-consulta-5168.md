@@ -4,7 +4,7 @@
 - **Espécie:** Parecer em Consulta
 - **Número:** 00007/2022
 - **Identificador:** `tcees-consulta-5168`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto reproduzido registra: “Revogado pelo Parecer Consulta TC 17/2026”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEES — Pareceres em Consulta e versões documentais oficiais](https://www.tcees.tc.br/jurisprudencia/pareceres-em-consulta/)
 

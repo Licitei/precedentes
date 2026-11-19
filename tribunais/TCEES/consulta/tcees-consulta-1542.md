@@ -4,7 +4,7 @@
 - **Espécie:** Parecer em Consulta
 - **Número:** 00011/2006
 - **Identificador:** `tcees-consulta-1542`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o portal registra: “Revogado pelo Parecer em Consulta 007/2020”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEES — Pareceres em Consulta e versões documentais oficiais](https://www.tcees.tc.br/jurisprudencia/pareceres-em-consulta/)
 

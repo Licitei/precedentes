@@ -4,7 +4,7 @@
 - **Espécie:** Parecer em Consulta
 - **Número:** 00041/2000
 - **Identificador:** `tcees-consulta-1980`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o portal registra: “Revogado pelo Parecer Consulta 007/2020”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEES — Pareceres em Consulta e versões documentais oficiais](https://www.tcees.tc.br/jurisprudencia/pareceres-em-consulta/)
 

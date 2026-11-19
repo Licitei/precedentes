@@ -4,7 +4,7 @@
 - **Espécie:** Parecer em Consulta
 - **Número:** 00024/2004
 - **Identificador:** `tcees-consulta-1678`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto reproduzido registra: “Revogado pelo Parecer Consulta nº 007/2020”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEES — Pareceres em Consulta e versões documentais oficiais](https://www.tcees.tc.br/jurisprudencia/pareceres-em-consulta/)
 

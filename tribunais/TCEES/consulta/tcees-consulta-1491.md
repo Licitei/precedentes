@@ -4,7 +4,7 @@
 - **Espécie:** Parecer em Consulta
 - **Número:** 00001/2011
 - **Identificador:** `tcees-consulta-1491`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto reproduzido registra: “Alterado pela Decisão Plenária TC nº12/2012”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TCEES — Pareceres em Consulta e versões documentais oficiais](https://www.tcees.tc.br/jurisprudencia/pareceres-em-consulta/)
 
