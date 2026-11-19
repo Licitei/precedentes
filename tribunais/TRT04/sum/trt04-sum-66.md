@@ -46,4 +46,24 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Texto do ato vinculado — Resolução Administrativa nº 28/2017
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/899100/RA_28.2017_-_Cancel_SAumula_66.pdf) — captura HTTP 200 em 19/11/2026; 88320 bytes; SHA-256 `835e35dc39f9dba054cc035cf9db7f6bda0405ce686869ae390142d8f88830a1`.
+
+PODER JUDICIÁRIO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO
+
+RESOLUÇÃO ADMINISTRATIVA Nº 28/2017
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO, na sessão e plenária e extraordinária realizada nesta data, no uso de suas atribuições legais e regimentais, RESOLVE, por unanimidade, CANCELAR a Súmula nº 66 deste Tribunal, aprovada pela Resolução Administrativa nº 18/2015 e alterada pela Resolução Administrativa nº 16/2016. Tomaram parte na sessão os Exmos. Desembargadores Rosane Serafini Casa Nova, João Alfredo Borges Antunes de Miranda, Ana Luiza Heineck Kruse, Tânia Rosa Maciel de Oliveira, Cleusa Regina Halfen, Ana Rosa Pereira Zago Sagrilo, Ricardo Carvalho Fraga, Flávia Lorena Pacheco, João Pedro Silvestrin, Luiz Alberto de Vargas, Cláudio Antônio Cassou Barbosa, Carmen Izabel Centena Gonzalez, Emílio Papaleo Zin, Vania Maria Cunha Mattos, Denise Pacheco, Alexandre Corrêa da Cruz, Clóvis Fernando Schuch Santos, Maria da Graça Ribeiro Centeno, Marçal Henri dos Santos Figueiredo, Rejane Souza Pedra, Wilson Carvalho Dias, Ricardo Hofmeister Martins Costa, Francisco Rossal de Araújo, Maria Helena Lisot, Lucia Ehrenbrink, Iris Lima de Moraes, Maria Madalena Telesca, George Achutti, Tânia Regina Silva Reckziegel, Laís Helena Jaeger Nicotti, Marcelo José Ferlin D ´Ambroso, Gilberto Souza dos Santos, Raul Zoratto Sanvicente, André Reverbel Fernandes, João Paulo Lucena, Fernando Luiz de Moura Cassal, João Batista de Matos Danda, Karina Saraiva Cunha, Fabiano Holz Beserra, Angela Rosi Almeida Chapper e Janney Camargo Bina, sob a Presidência da Exma. Desembargadora Beatriz Renck, Presidente deste Tribunal. Presente pelo Ministério Público do Trabalho o Dr. Rogério Uzun Fleischmann. Dou fé. Porto Alegre, 18 de agosto de 2017. Cláudia Regina Schröder, Secretária do Tribunal Pleno, do Órgão Especial e da SDC.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.- CERTIDÃO
+
+CERTIFICO que a presente Resolução Administrativa, disponibilizada no DEJT dos dias 22, 23 e 24.08.2017, é considerada publicada nos dias 23, 24 e 25.08.2017. Dou fé. Em 25 de agosto de 2017.
+
+Cláudia Regina Schröder
+
+Secretária do Tribunal Pleno, do Órgão Especial e da SDC
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

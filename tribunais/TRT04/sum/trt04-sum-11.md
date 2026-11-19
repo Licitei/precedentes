@@ -38,4 +38,34 @@ Precedentes:
 
 [0080700-49.1995.5.04.0018 (RO/REENEC)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/9FhzZfATdZ59Tn7HcLIK7g)
 
+## Texto do ato vinculado — Resolução Administrativa nº 29/2026
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/1066658/RA%2029%20-2026%20-%20CANCELA%20SUMULA%2011%20TRT.pdf) — captura HTTP 200 em 19/11/2026; 72834 bytes; SHA-256 `adaa57d7d9b09fde82ca059b249b2b32f4a33ab045f4900d12cb54a5850bec09`.
+
+PODER JUDICIÁRIO
+
+JUSTIÇA DO TRABALHO
+
+TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO
+
+RESOLUÇÃO ADMINISTRATIVA Nº 29/2026
+
+O TRIBUNAL REGIONAL DO TRABALHO DA 4ª REGIÃO, na sessão extraordinária e plenária realizada nesta data, no uso de suas atribuições legais e regimentais, RESOLVE, por maioria, vencido o entendimento dos Desembargadores Ricardo Carvalho Fraga, Luiz Alberto de Vargas, Marcelo José Ferlin D'Ambroso e da Desembargadora Brígida Joaquina Charão Barcelos, CANCELAR a Súmula nº 11 deste Tribunal, aprovada pela Resolução Administrativa nº 07/1999.
+
+Tomaram parte na sessão os Exmos. Desembargadores Rosane Serafini Casa Nova, Ana Luiza Heineck Kruse, Cleusa Regina Halfen, Ricardo Carvalho Fraga, Luiz Alberto de Vargas, Beatriz Renck, Maria Cristina Schaan Ferreira, Cláudio Antônio Cassou Barbosa, Carmen Izabel Centena Gonzalez, Emílio Papaléo Zin, Vania Maria Cunha Mattos, Denise Pacheco, Maria da Graça Ribeiro Centeno, Wilson Carvalho Dias, Ricardo Hofmeister de Almeida Martins Costa, Francisco Rossal de Araújo, Lucia Ehrenbrink, Maria Madalena Telesca, Tânia Regina Silva Reckziegel, Laís Helena Jaeger Nicotti, Marcelo José Ferlin D’Ambroso, Gilberto Souza dos Santos, João Paulo Lucena, Fernando Luiz de Moura Cassal, Brígida Joaquina Charão Barcelos, João Batista de Matos Danda, Fabiano Holz Beserra, Angela Rosi Almeida Chapper, Janney Camargo Bina, Marcos Fagundes Salomão, Manuel Cid Jardon, Roger Ballejo Villarinho, Simone Maria Nunes, Maria Silvana Rotta Tedesco, Rosiul de Freitas Azambuja, Carlos Alberto May, Luciane Cardoso Barzotto, Edson Pecis Lerrer e Roberto Antônio Carvalho Zonta, sob a presidência do Exmo. Desembargador Alexandre Corrêa da Cruz, Presidente deste Tribunal. Presente pelo Ministério Público do Trabalho Dr. Antônio Bernardo Santos Pereira. Porto Alegre, 17 de agosto de 2026.-.-.-.-.-.-.-.-.-.-.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial, SEJAI e SDC
+
+CERTIDÃO
+
+CERTIFICO que a presente Resolução Administrativa, disponibilizada no DEJT dos dias 04.09.2026, 09.09.2026 e 10.09.2026 é considerada publicada nos dias 08.09.2026, 10.09.2026 e 11.09.2026. Dou fé. Em 11 de setembro de 2026.
+
+Cintia Barcellos Fernandes
+
+Secretária do Tribunal Pleno, do Órgão Especial, SEJAI e da SDC
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

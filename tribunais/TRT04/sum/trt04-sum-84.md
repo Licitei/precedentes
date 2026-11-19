@@ -58,4 +58,8 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Ato vinculado não recuperado nesta coleta — Resolução Administrativa nº 33/2017
+
+O vínculo indicado pela própria fonte ([PDF oficial](https://www.trt4.jus.br/portais/documento-ato/906102/RA_33.2017_-_AlteraAcAao_SAumula_84.pdf)) respondeu HTTP 404, tanto em consulta direta quanto em navegador na captura de 19/11/2026; o inteiro teor permanece pendente. O estado do destino nesta captura indica impedimento de acesso e não comprova inexistência do documento. As situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

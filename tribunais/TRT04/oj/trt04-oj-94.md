@@ -56,4 +56,42 @@ Precedentes:
 
 [0000293-13.2010.5.04.0024 (AP)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/pje/Uk1mB04gm7gYoE-2qaaDmw)
 
+## Texto do ato vinculado — Resolução nº 05/2025
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/1065685/Resolu%C3%A7%C3%A3o%205-2025-%20revisao%20OJ%2094.pdf) — captura HTTP 200 em 19/11/2026; 111829 bytes; SHA-256 `1802417679b7da8463215ba96e2dcb177e014269e88c68f83be41815f4fa8cd4`.
+
+RESOLUÇÃO SEEx Nº 05/2025
+
+CERTIFICO que a Seção Especializada em Execução do Tribunal Regional do Trabalho da 4ª Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária realizada nesta data, resolveu, por unanimidade, revisar a redação da Orientação Jurisprudencial nº 94,que passará a constar com a seguinte redação :
+
+Orientação Jurisprudencial n.º 94 – INCIDENTE DE DESCONSIDERAÇÃO DA
+
+PERSONALIDADE JURÍDICA.
+
+I - Após a Reforma Trabalhista (Lei N.º 13.467/17), para o redirecionamento da execução contra sócios da empresa, é necessária a instauração do Incidente de Desconsideração da Personalidade Jurídica.
+
+II - O princípio da transcendência ou prejuízo adotado no Processo Judiciário do Trabalho: art 794 da CLT, e os princípios constitucionais da efetividade da prestação jurisdicional e da razoável duração do processo: inciso LXXVIII do art. 5.ª da CRFB, impedem o reconhecimento da nulidade processual apenas em razão do incidente de desconsideração da personalidade jurídica ter sido instaurado ex officio.
+
+Tomaram parte na sessão os Exmos. Desembargadores João Alfredo Borges Antunes de Miranda, Maria da Graça Ribeiro Centeno, Marcelo Gonçalves de Oliveira, Lucia Ehrenbrink, João Batista de Matos Danda, Janney Camargo Bina, Carlos Alberto May, Luis Carlos Pinto Gastal e o(a) Exmo(a). Procurador(a) do Trabalho, Cristiano Bocorny Correa, sob a presidência do Exmo. Desembargador João Alfredo Borges Antunes de Miranda. Dou fé. Porto Alegre, 24 de outubro de 2025. Luís Antônio Amaral Apel, Secretário da Seção Especializada em Execução.
+
+Precedentes :
+
+RMJB INTERDIAÇÃO DE NEGÓCIOS. DIREITO DO TRABALHO. DIREITO PROCESSUAL DO TRABALHO. AGRAVO DE PETIÇÃO. EMBARGOS DE TERCEIRO.      SUCESSÃO        EMPRESARIAL.       DESCONSIDERAÇÃO           DA PERSONALIDADE         JURÍDICA.      EXCLUSÃO        DO    POLO      PASSIVO. PROVIMENTO NEGADO. Caso em que a inclusão da agravante no polo passivo da execução não se deu pela desconsideração da personalidade jurídica, mas pelo reconhecimento de sucessão trabalhista, para o qual não se exige a instauração de tal incidente. Prova demonstra que o executado atuou como sócio oculto, valendo-se da pessoa jurídica para ocultar seu patrimônio e se furtar ao pagamento de dívidas, o que justifica o redirecionamento da execução por meio da desconsideração inversa da personalidade jurídica. Contudo, inviável a nulidade processual porque foi assegurado o exercício do direito de defesa da agravante, evidenciando a ausência do necessário prejuízo para a pronuncia nesse sentido. Agravo de petição a que se nega provimento. (TRT da 4ª Região, Seção Especializada em Execução, 0021184- 61.2024.5.04.0025 AP, em 05-09-2025, Desembargador Janney Camargo Bina)
+
+AGRAVO DE PETIÇÃO. ARGUIÇÃO DE NULIDADE. INOCORRÊNCIA. Não obstante   o   requerimento     do   exequente    tenha    sido    referente   ao redirecionamento da execução ao espólio de sócio diverso, a decisão agravada não afronta o artigo 878 da CLT, pois o magistrado de origem, ao instaurar o incidente de desconsideração da personalidade jurídica, não iniciou a execução, mas tão somente deu continuidade aos atos necessários a fim de que fosse satisfeita a obrigação. Tal procedimento está de acordo com o princípio da razoável duração do processo, garantido constitucionalmente (artigo 5º, inciso LXXVIII, da CF). Prefacial suscitada pelo executado Ivaldo a que se rejeita. (TRT da 4ª Região, Seção Especializada em Execução, 0020372-33.2016.5.04.0305 AP, em 23-05-2025, Desembargador João Alfredo Borges Antunes de Miranda)
+
+AGRAVO DE PETIÇÃO DA EXECUTADA.                   NULIDADE        PROCESSUAL. IMPOSSIBILIDADE DE IMPULSO OFICIAL DA EXECUÇÃO. A nova regra do art. 878 da CLT deve ser aplicada em consonância com o ordenamento jurídico e com os princípios processuais aplicáveis, dentre os quais se encontram a efetividade da prestação jurisdicional e a razoável duração do processo (art. 5º, LXXVIII da CF/88). O próprio CPC admite o impulso oficial e, assim, mesmo no caso de aplicação da nova regra, apenas o início da execução estaria ao encargo da parte, podendo o Juiz determinar os demais atos necessários ao processamento da execução, de ofício, já que o interesse maior tutelado passa a ser a efetividade da decisão proferida na fase de conhecimento. (TRT da 4ª Região, Seção Especializada em Execução, 0001410-05.2010.5.04.0003 AP, em 16-05-2025, Desembargador João Batista de Matos Danda) CERTIDÃO
+
+CERTIFICO e dou fé que a Resolução nº 05/2025 foi disponibilizada no DEJT dos dias 29 e 30/10 e 03/11/2025 e considerada publicada nos dias 30/10 e 03 e 04/11/2025.
+
+Em 04 de novembro de 2025.
+
+Luís Antônio Amaral Apel
+
+Secretário
+
+Seção Especializada em Execução
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de alteração indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

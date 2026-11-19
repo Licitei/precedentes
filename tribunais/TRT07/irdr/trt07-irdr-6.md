@@ -20,4 +20,20 @@ Nos termos do Tema 222 do STF e Lei nº 4.860/1965, a verba "adicional de riscos
 
 - [00001872220225070000](https://pje.trt7.jus.br/consultaprocessual/detalhe-processo/0000187-22.2022.5.07.0000/2#2766e32)
 
+## Outra fonte oficial — Teses Firmadas em IRDR
+
+[TRT7 — Teses Firmadas em IRDR](https://www.trt7.jus.br/index.php/jurisprudencia/jurisprudencia-consolidada-trt7/teses-firmadas-em-irdr) (página atualizada em 23/02/2026; captura de 19/11/2026). Os endereços atuais do portal não usam mais a terminação “.html” registrada historicamente; o acesso direto antigo respondeu 403/404 na captura, e a navegação foi feita pelo menu oficial do portal, sem interação com autenticação.
+
+### Tese em Incidente de Resolução de Demandas Repetitivas nº 0006 do TRT7
+
+Nos termos do Tema 222 do STF e Lei no 4.860/1965, a verba "adicional de riscos" é devida ao trabalhador portuário avulso no percentual de 40% (quarenta por cento), incidente sobre o total do salário- hora diurno pago durante cada mês em que houve a prestação do serviço, assim compreendido o salário básico, "stricto sensu", destituído de quaisquer outros adicionais, ou seja, sem a inclusão de valores referentes a adicional noturno, férias mais 1/3, 13º salário e repouso semanal remunerado (RSR). Outrossim, o adicional de riscos, em razão de sua natureza jurídica salarial e habitualidade com que é devido, repercute nas férias mais 1/3, 13º salários e FGTS.
+
+Precedente:
+
+| Nº do Processo | Órgão Judicante | Relator | Data de Julgamento | Data de Publicação | Tipo de Decisão |
+| --- | --- | --- | --- | --- | --- |
+| Incidente de Resolução de Demandas Repetitivas 0000187-22.2022.5.07.0000 | Tribunal Pleno | Des. José Antônio Parente da Silva | 12/11/22 | 16/11/22 | Unânime |
+
+O corpo da tese nº 0006 coincide literalmente com o texto do BNP transcrito acima, exceto pelas grafias “Lei no 4.860/1965” e “salário- hora” no catálogo próprio, onde o BNP escreve “Lei nº 4.860/1965” e “salário-hora”; as grafias permanecem atribuídas às respectivas fontes. A linha de precedente do catálogo acrescenta órgão judicante, relatoria, datas de julgamento e publicação (12/11/22 e 16/11/22, conforme a grafia da fonte) e tipo de decisão, com atribuição ao catálogo. A apresentação do BNP permanece atribuída à fonte BNP.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

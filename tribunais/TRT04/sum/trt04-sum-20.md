@@ -44,4 +44,16 @@ Precedentes:
 
 [0005500-52.1997.5.04.0281 (RO)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus1/Pr7ihTsI1WZEhao5MmARGw)
 
+## Texto do ato vinculado — Resolução Administrativa nº 14/2005
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/43212/ra20050014.pdf) — captura HTTP 200 em 19/11/2026; 11137 bytes; SHA-256 `15dddc522ba0705f4a45cdecfe9d4bc0477379beacaa24e6566ff4b9c5b73519`.
+
+TRIBUNAL REGIONAL DO TRABALHO
+
+RESOLUÇÃO ADMINISTRATIVA Nº 14/2005
+
+CERTIFICO que o Tribunal Regional do Trabalho da Quarta Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária e plenária, realizada nesta data, resolveu, por maioria de votos, vencidos os Exmos. Juízes Presidente, Paulo José da Rocha, Pedro Luiz Serafini, João Ghisleni Filho, Beatriz Zoratto Sanvicente, Juraci Galvão Júnior, Tânia Maciel de Souza, Maria Beatriz Condessa Ferreira, Hugo Carlos Scheuermann e Flávia Lorena Pacheco, cancelar a SÚMULA Nº 20 deste Tribunal, aprovada pela Resolução Administrativa nº 10/2000. Tomaram parte na sessão os Exmos. Juízes Paulo José da Rocha, Mario Chaves, Pedro Luiz Serafini, Denis Marcelo de Lima Molarinho, João Ghisleni Filho, Maria Guilhermina Miranda, Carlos Alberto Robinson, Jane Alice de Azevedo Machado, Beatriz Zoratto Sanvicente, Juraci Galvão Júnior, Rosane Serafini Casa Nova, João Alfredo Borges Antunes de Miranda, Dionéia Amaral Silveira, Maria Helena Mallmann, Berenice Messias Corrêa, Milton Varela Dutra, Maria Inês Cunha Dornelles, Tânia Maciel de Souza, Leonardo Meurer Brasil, Cleusa Regina Halfen, Maria Beatriz Condessa Ferreira, Ana Rosa Pereira Zago Sagrilo, Denise Maria de Barros, Eurídice Josefina Bazo Tôrres, Ione Salin Gonçalves, Ricardo Carvalho Fraga, Hugo Carlos Scheuermann, José Felipe Ledur, Flávia Lorena Pacheco e João Pedro Silvestrin, sob a presidência do Exmo. Juiz Fabiano de Castilhos Bertoluci, Presidente deste Tribunal. Presente pelo Ministério Público do Trabalho a Dra. Silvana Ribeiro Martins. Dou fé. Porto Alegre, 26 de setembro de 2005. Cláudia Regina Schröder, Secretária do Tribunal Pleno e do Órgão Especial.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

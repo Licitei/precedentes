@@ -118,3 +118,7 @@
 - [OJ 114](trt04-oj-114.md) — Situação não informada
 - [OJ 115](trt04-oj-115.md) — Situação não informada
 - [OJ 116](trt04-oj-116.md) — Situação não informada
+
+## Atos de cancelamento, alteração e revisão — 19/11/2026
+
+Foram incorporados os inteiros teores dos atos indicados pelos cabeçalhos do catálogo nas fichas correspondentes, com URL, data de captura, tamanho e SHA-256 por documento: Resoluções SEEx 01/2023 (cancela OJ 96), 01/2024 (cancela OJ 50), 02/2024 (altera OJ 101), 01/2014 (cancela OJ 29), 09/2014 (cancela OJ 23), 01/2016 (altera as OJs 25, 41, 43, 45, 56, 66, 69 e 70 e cancela a OJ 30), 12/2017 (altera OJ 1), 13/2017 (atualiza OJ 67), 14/2017 (cancela OJ 69), 15/2017 (cancela OJ 70), 19/2017 (cancela OJ 5), 20/2017 (cancela OJ 45), 21/2017 (cancela OJ 78), 01/2017 (cancela a OJ transitória 1), 01/2025 (cancela OJ 84), 02/2025 (cancela OJ 90), 03/2025 (revê OJ 17), 04/2025 (revê OJ 56) e 05/2025 (revê OJ 94). Os documentos “OJs_2015_(1)” e “OJs_2015_(2)”, indicados para os cancelamentos das OJs 13 e 49, redirecionaram à autenticação única do portal (SSO) na captura de 19/11/2026 e permanecem pendentes, com o impedimento registrado nas fichas. Os atos de edição/aprovação e os julgados vinculados continuam pendentes de conciliação; as situações dos cabeçalhos permanecem como coletadas.

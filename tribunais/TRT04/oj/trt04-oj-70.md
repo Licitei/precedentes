@@ -34,4 +34,16 @@ Precedentes:
 
 [0010200-71.2008.5.04.0512 (AP)](https://pesquisatextual.trt4.jus.br/pesquisas/rest/cache/acordao/ejus2/XfhD90VImUhQdGB9RSbW0Q)
 
+## Texto do ato vinculado — RESOLUÇÃO Nº 15/2017
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/908115/ResoluAcAao_15-2017.pdf) — captura HTTP 200 em 19/11/2026; 14084 bytes; SHA-256 `bf086f802b1aa92a898baee0488ebb0e22703a1bb39b39f56c58a594417d7d49`.
+
+RESOLUÇÃO Nº 15/2017
+
+CERTIFICO que a Seção Especializada em Execução do Tribunal Regional do Trabalho da 4ª Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária realizada nesta data, resolveu, por unanimidade de votos, cancelar a ORIENTAÇÃO JURISPRUDENCIAL Nº 70.
+
+Tomaram parte na sessão os Exmos. Desembargadores Cleusa Regina Halfen, Ana Rosa Pereira Zago Sagrilo, Rejane Souza Pedra, Lucia Ehrenbrink, João Batista de Matos Danda e o Exmo. Juiz convocado Manuel Cid Jardon, sob a presidência do Exmo. Desembargador João Alfredo Borges Antunes de Miranda. Presente pelo Ministério Público do Trabalho o Dr. Luiz Fernando Mathias Vilar. Dou fé. Porto Alegre, 07 de novembro de 2017. Márcia Lamberti Doval, Secretária da Seção Especializada em Execução. :
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.

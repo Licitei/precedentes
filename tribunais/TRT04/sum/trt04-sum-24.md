@@ -75,4 +75,14 @@ As marcações “Cancelada”, “Alterada” e “Revisada” correspondem às
 
 Os inteiros teores dos atos e julgados vinculados não foram coletados neste lote.
 
+## Texto do ato vinculado — Resolução Administrativa nº 24/2003
+
+[PDF oficial](https://www.trt4.jus.br/portais/documento-ato/43140/ra20030024.pdf) — captura HTTP 200 em 19/11/2026; 10896 bytes; SHA-256 `aa4174f36760b3e4272096c7cd461a98c5da09bad2e89b6b7503d79e53dd7a31`.
+
+RESOLUÇÃO ADMINISTRATIVA N° 24/2003
+
+CERTIFICO que o Tribunal Regional do Trabalho da Quarta Região, no uso de suas atribuições legais e regimentais, em sessão extraordinária e plenária, realizada nesta data, resolveu, por unanimidade de votos, cancelar a SÚMULA N° 24 deste Tribunal, aprovada pela Resolução Administrativa nº 07/2002. Tomaram parte na sessão os Exmos. Juízes Flavio Portinho Sirangelo, Paulo José da Rocha, Darcy Carlos Mahle, Rosa Maria Weber Candiota da Rosa, Mario Chaves, Pedro Luiz Serafini, Denis Marcelo de Lima Molarinho, João Ghisleni Filho, Maria Guilhermina Miranda, Carlos Alberto Robinson, Jane Alice de Azevedo Machado, Beatriz Zoratto Sanvicente, Rosane Serafini Casa Nova, João Alfredo Borges Antunes de Miranda, Dionéia Amaral Silveira, Maria Helena Mallmann Sulzbach, Ana Luíza Heineck Kruse, Berenice Messias Corrêa, Milton Varela Dutra, Maria Inês Cunha Dornelles, Tânia Maciel de Souza, Leonardo Meurer Brasil, Cleusa Regina Halfen, Ricardo Luiz Tavares Gehling, Maria Beatriz Condessa Ferreira, Vanda Krindges Marques, Ana Rosa Pereira Zago Sagrilo, Denise Maria de Barros, Eurídice Josefina Bazo Tôrres, Ricardo Carvalho Fraga, Hugo Carlos Scheuermann e José Felipe Ledur, sob a presidência do Exmo. Juiz Fabiano de Castilhos Bertoluci, Presidente deste Tribunal. Presente pelo Ministério Público do Trabalho a Dra. Marília Hofmeister Caldas. Dou fé. Porto Alegre, 18 de dezembro de 2003. Cláudia Regina Schröder, Secretária do Tribunal Pleno e do Órgão Especial.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+
+Texto extraído da camada textual do PDF (pdftotext) e cotejado; as grafias, a pontuação e as quebras do original foram mantidas, inclusive separadores e eventuais lapsos. O documento é o ato de cancelamento indicado pela própria fonte no cabeçalho do verbete; as situações registradas nas seções acima permanecem atribuídas às respectivas fontes, sem escolha de situação atual. Os demais atos e julgados vinculados continuam pendentes de conciliação.
+
 Texto reproduzido de fonte oficial. Confira na origem a situação atual e as ressalvas aplicáveis.
