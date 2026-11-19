@@ -39,6 +39,7 @@ A página, criada em 01/09/2023 e atualizada em 15/09/2025, lista 31 vínculos: 
 
 ## Estado da publicação
 
+- O Ofício Circular Conjunto PGM/CTGM nº 001/2020, listado na mesma página, foi capturado duas vezes em 19/11/2026 ([PDF](https://prefeitura.pbh.gov.br/sites/default/files/estrutura-de-governo/procuradoria/2023/lei-geral-de-protecao-de-dados.pdf); 18 páginas; 739.035 bytes; SHA-256 `6e28e2d4434b78e6f745376e328bdceba6385471ab07a60bcc74f832ca422923`). O PDF não tem camada textual; não recebeu ID, não foi transcrito e não foi contado entre os 30 pareceres.
 - Os 30 PDFs foram capturados duas vezes em 19/11/2026, com pares HTTP 200 de bytes e SHA-256 coincidentes. O texto foi extraído com `pdftotext -layout`; não houve OCR, paráfrase ou reconstrução.
 - **299/2023 (AJU-SMFA):** as 12 páginas não têm camada textual do corpo. A página 9 contém apenas um carimbo de assinatura digital, com CPF omitido. Todas as páginas estão marcadas como “Página N sem texto extraível; transcrição pendente.” Nenhuma leitura visual foi alegada.
 - **007/2023 (DIAP-PGM):** o PDF traz a nota “(Em substituição ao Parecer Referencial DIAP-PGM nº 004/2023)”, preservada na ficha. A nota é do documento; não se infere situação dos demais pareceres.
