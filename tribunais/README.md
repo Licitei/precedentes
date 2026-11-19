@@ -153,6 +153,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [TJMMG](TJMMG/) | 9 |
 | [TJMRS](TJMRS/) | 2 |
 | [TJMS](TJMS/) | 33 |
+| [TJMSP](TJMSP/) | 0 |
 | [TJMT](TJMT/) | 107 |
 | [TJPA](TJPA/) | 69 |
 | [TJPB](TJPB/) | 64 |
@@ -171,8 +172,13 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [TNU](TNU/) | 483 |
 | [TRE_AC](TRE_AC/) | 2 |
 | [TRE_AL](TRE_AL/) | 9 |
+| [TRE_AM](TRE_AM/) | 0 |
+| [TRE_AP](TRE_AP/) | 0 |
 | [TRE_BA](TRE_BA/) | 11 |
 | [TRE_CE](TRE_CE/) | 5 |
+| [TRE_DF](TRE_DF/) | 5 |
+| [TRE_ES](TRE_ES/) | 0 |
+| [TRE_GO](TRE_GO/) | 0 |
 | [TRE_MA](TRE_MA/) | 1 |
 | [TRE_MG](TRE_MG/) | 51 |
 | [TRE_MS](TRE_MS/) | 3 |
