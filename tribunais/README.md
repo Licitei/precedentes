@@ -1,6 +1,6 @@
 # Inventário estrutural por órgão
 
-**Recontagem estrutural de 19/11/2026: 44.043 IDs únicos em 217 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
+**Recontagem estrutural de 19/11/2026: 44.072 IDs únicos em 218 órgãos, sem duplicatas.** Contados os campos “Identificador” das fichas Markdown; documentos de apoio ficam fora. Inclui históricos, cancelados e registros com texto pendente. A contagem não certifica integralidade textual, revisão visual ou vigência.
 
 Normalização de contagem: cada campo primário Identificador recebe uma identidade. O tipo de documento, qualidade/completude do corpo e situação jurídica exigem consulta à ficha e às ressalvas; totais não são contagem de teses vigentes. [Cobertura e pendências](../COBERTURA.md).
 
@@ -30,6 +30,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [CJF](CJF/) | 1.872 |
 | [CMRI](CMRI/) | 8 |
 | [CNIC](CNIC/) | 33 |
+| [CNJ](CNJ/) | 29 |
 | [CNMP](CNMP/) | 96 |
 | [CNPG](CNPG/) | 87 |
 | [CRFPB](CRFPB/) | 4 |
@@ -78,14 +79,15 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [MPT](MPT/) | 36 |
 | [PGDF](PGDF/) | 18 |
 | [PGEAL](PGEAL/) | 43 |
+| [PGEAM](PGEAM/) | 5 |
 | [PGEAP](PGEAP/) | 18 |
 | [PGECE](PGECE/) | 24 |
 | [PGEES](PGEES/) | 58 |
 | [PGEGO](PGEGO/) | 129 |
 | [PGEMS](PGEMS/) | 55 |
 | [PGEMT](PGEMT/) | 49 |
-| [PGEPA](PGEPA/) | 38 |
-| [PGEPB](PGEPB/) | 3 |
+| [PGEPA](PGEPA/) | 40 |
+| [PGEPB](PGEPB/) | 4 |
 | [PGEPE](PGEPE/) | 4 |
 | [PGEPI](PGEPI/) | 66 |
 | [PGEPR](PGEPR/) | 102 |
