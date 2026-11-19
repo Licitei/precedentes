@@ -13,15 +13,66 @@ from collections import Counter
 from pathlib import Path
 
 ID_PREFIX = "- **Identificador:** `"
-ORGAO_PREFIX = "- **Órgão:**"
-ESPECIE_PREFIX = "- **Espécie:**"
-FONTE_PREFIX = "- **Fonte:**"
-SITUACAO_PREFIX = "- **Situação"
-IDENTIDADE_PREFIX = "- **Identidade:**"
 REVISAO_PREFIX = "## Revisão documental pendente"
 TRANSCRICAO_PREFIX = "[Transcrição retida"
 PAGINA_MARCA = "Página"
 PAGINA_ALVO = " sem texto extraível"
+
+# Rótulos de linha (a parte em negrito antes de “:**”). A linha canônica é
+# `- **Órgão:**`, `- **Espécie:**` e `- **Fonte:**`. Os conjuntos abaixo reúnem
+# rótulos verificados no acervo que nomeiam o mesmo dado: o corpo emissor
+# (Órgão), o vínculo oficial consultado (Fonte) e a classe do ato (Espécie).
+# Rótulo que começa com “Fonte” também vale como fonte, em linha de tópico ou
+# em linha de texto com o endereço oficial (ex.: “Fontes: [CNJ …](https://…)”).
+ROTULO_CAMPO = re.compile(r"^-\s+\*\*([^*]+?)\s*:\*\*")
+FONTE_PROSA_PREFIX = "Fonte"
+ROTULOS_ORGAO_ALTERNATIVOS = frozenset(
+    (
+        "Emissor",
+        "Emissor atribuído pela publicação",
+        "Emissores atribuídos pela publicação",
+        "Emissor na fonte",
+        "Entidade emissora",
+        "Órgão atribuído no cabeçalho da reprodução",
+        "Órgão do acervo",
+        "Órgão e emissor",
+        "Órgão emissor",
+        "Órgão emissor na fonte",
+        "Órgão no acervo",
+        "Órgão/emissor",
+        "Tribunal anfitrião e publicador do caderno",
+    )
+)
+ROTULOS_FONTE_ALTERNATIVOS = frozenset(
+    (
+        "Ato",
+        "Ato de aprovação",
+        "Ato de referendo",
+        "Catálogo",
+        "Catálogo hospedeiro",
+        "Descrição primária",
+        "Diário",
+        "Documento",
+        "Ficha",
+        "Ficha oficial",
+        "Notícia",
+        "PDF",
+        "PDF oficial",
+        "Página",
+        "Página do DOU",
+        "URL",
+        "URL no catálogo",
+    )
+)
+ROTULOS_ESPECIE_ALTERNATIVOS = frozenset(
+    (
+        "Espécie da ficha do catálogo",
+        "Espécie impressa",
+        "Espécie no título",
+        "Espécie publicada",
+        "Tipo no catálogo",
+    )
+)
 
 HEADLINE = re.compile(
     r"(?<![\d.])(\d{1,3}(?:\.\d{3})*)\s+IDs únicos em\s+"
@@ -37,6 +88,9 @@ ORDEM_ERROS = (
     "leitura",
 )
 ORDEM_AVISOS = (
+    "rotulo_orgao_alternativo",
+    "rotulo_especie_alternativo",
+    "rotulo_fonte_alternativo",
     "sem_situacao",
     "situacao_incerta",
     "identidade_sem_identificador",
@@ -191,13 +245,24 @@ def varrer(raiz: Path) -> Relatorio:
     return relatorio
 
 
+def rotulo_de(campo: str) -> str | None:
+    """Devolve o rótulo em negrito de uma linha de tópico `- **X:**`."""
+    achado = ROTULO_CAMPO.match(campo)
+    if achado is None:
+        return None
+    return achado.group(1)
+
+
 def analisar_arquivo(
     relatorio: Relatorio, relativo: str, texto: str, nome: str
 ) -> None:
     identificadores: list[tuple[str, int]] = []
     tem_orgao = False
+    orgao_alternativo = False
     tem_especie = False
+    especie_alternativa = False
     tem_fonte = False
+    fonte_alternativa = False
     tem_situacao = False
     incerta = False
     tem_identidade = False
@@ -207,25 +272,40 @@ def analisar_arquivo(
         if linha.startswith(TRANSCRICAO_PREFIX) or pagina_sem_texto(linha):
             relatorio.paginas_sem_texto += 1
         campo = linha.lstrip()
+        rotulo = rotulo_de(campo)
         if (
             campo.startswith(ID_PREFIX)
             and campo.endswith("`")
             and campo.count("`") == 2
         ):
             identificadores.append((campo[len(ID_PREFIX) : -1], numero))
-        elif campo.startswith(ORGAO_PREFIX):
+        elif rotulo == "Órgão":
             tem_orgao = True
-        elif campo.startswith(ESPECIE_PREFIX):
+        elif rotulo in ROTULOS_ORGAO_ALTERNATIVOS:
+            orgao_alternativo = True
+        elif rotulo == "Espécie":
             tem_especie = True
-        elif campo.startswith(FONTE_PREFIX):
+        elif rotulo in ROTULOS_ESPECIE_ALTERNATIVOS:
+            especie_alternativa = True
+        elif rotulo == "Fonte":
             tem_fonte = True
-        elif campo.startswith(SITUACAO_PREFIX):
+        elif rotulo is not None and rotulo.startswith("Fonte"):
+            fonte_alternativa = True
+        elif rotulo in ROTULOS_FONTE_ALTERNATIVOS and "http" in campo:
+            fonte_alternativa = True
+        elif rotulo is not None and rotulo.startswith("Situação"):
             tem_situacao = True
             _rotulo, _sep, valor = campo.partition(":**")
             if situacao_incerta(valor):
                 incerta = True
-        elif campo.startswith(IDENTIDADE_PREFIX):
+        elif rotulo == "Identidade":
             tem_identidade = True
+        elif (
+            rotulo is None
+            and campo.startswith(FONTE_PROSA_PREFIX)
+            and "http" in campo
+        ):
+            fonte_alternativa = True
         if campo.startswith(REVISAO_PREFIX):
             tem_revisao = True
 
@@ -248,26 +328,53 @@ def analisar_arquivo(
     if tem_revisao:
         relatorio.revisao_documental_pendente += 1
     if not tem_orgao:
-        relatorio.registrar(
-            "erro",
-            "sem_orgao",
-            relativo,
-            "falta linha `- **Órgão:**`",
-        )
+        if orgao_alternativo:
+            relatorio.registrar(
+                "aviso",
+                "rotulo_orgao_alternativo",
+                relativo,
+                "órgão nomeado sob rótulo alternativo; falta a linha canônica "
+                "`- **Órgão:**`",
+            )
+        else:
+            relatorio.registrar(
+                "erro",
+                "sem_orgao",
+                relativo,
+                "falta linha `- **Órgão:**`",
+            )
     if not tem_especie:
-        relatorio.registrar(
-            "erro",
-            "sem_especie",
-            relativo,
-            "falta linha `- **Espécie:**`",
-        )
+        if especie_alternativa:
+            relatorio.registrar(
+                "aviso",
+                "rotulo_especie_alternativo",
+                relativo,
+                "espécie indicada sob rótulo alternativo; falta a linha "
+                "canônica `- **Espécie:**`",
+            )
+        else:
+            relatorio.registrar(
+                "erro",
+                "sem_especie",
+                relativo,
+                "falta linha `- **Espécie:**`",
+            )
     if not tem_fonte:
-        relatorio.registrar(
-            "erro",
-            "sem_fonte",
-            relativo,
-            "falta linha `- **Fonte:**`",
-        )
+        if fonte_alternativa:
+            relatorio.registrar(
+                "aviso",
+                "rotulo_fonte_alternativo",
+                relativo,
+                "fonte indicada sob rótulo alternativo; falta a linha canônica "
+                "`- **Fonte:**`",
+            )
+        else:
+            relatorio.registrar(
+                "erro",
+                "sem_fonte",
+                relativo,
+                "falta linha `- **Fonte:**`",
+            )
     if not tem_situacao:
         relatorio.registrar(
             "aviso",
