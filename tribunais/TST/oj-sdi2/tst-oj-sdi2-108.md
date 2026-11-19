@@ -4,7 +4,7 @@
 - **Espécie:** Orientação Jurisprudencial da SBDI-II
 - **Número:** 108
 - **Identificador:** `tst-oj-sdi2-108`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(cancelada em decorrência da sua conversão na Súmula nº 404)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 

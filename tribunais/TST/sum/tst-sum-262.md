@@ -4,7 +4,7 @@
 - **Espécie:** Súmula
 - **Número:** 262
 - **Identificador:** `tst-sum-262`
-- **Situação na fonte:** Não informada em campo próprio; confira o texto e suas ressalvas
+- **Situação na fonte:** Não informada em campo próprio; o texto oficial reproduzido registra: “(redação do item II alterada na sessão do Tribunal Pleno realizada em 19.05.2014)”
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TST — Livro de jurisprudência](https://www.tst.jus.br/documents/d/guest/livrointernet-12-rtf)
 
