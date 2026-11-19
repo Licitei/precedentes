@@ -24,6 +24,7 @@ Normalização de contagem: cada campo primário Identificador recebe uma identi
 | [CATGO](CATGO/) | 15 |
 | [CCMG](CCMG/) | 7 |
 | [CFC](CFC/) | 16 |
+| [CFOAB](CFOAB/) | 36 |
 | [CGECE](CGECE/) | 73 |
 | [CGEMG](CGEMG/) | 15 |
 | [CGU](CGU/) | 41 |
