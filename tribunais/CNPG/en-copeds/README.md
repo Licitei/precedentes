@@ -14,7 +14,7 @@
 
 As notas atribuem os números 1–15 à II Reunião Ordinária de 09/06/2011, Vitória/ES, e os números 16–25 à IV Reunião Ordinária de 07/12/2011, Belo Horizonte/MG. O ano não foi acrescentado aos rótulos dos enunciados. São notas da reprodução, não certificação autônoma das atas ou dos atos de aprovação. O MPPR conserva outro testemunho com pequenas diferenças de apresentação; as formas desta série seguem o texto EJEF/TJMG, sem harmonização silenciosa. Arquivos e recibos permanecem privados.
 
-COPEDS é separada de COPEVID, GNDH 01/2018 e GNCCRIM. As demais séries, notas técnicas, fontes originais e atualizações permanecem pendentes na [issue #270](https://github.com/minutei-ai/precedentes/issues/270). A notícia institucional de outubro/2026 alterna aprovação realizada e homologação futura; não resolve a identidade nem o estado dos documentos novos e não altera estes enunciados de 2011.
+COPEDS é separada de COPEVID, GNDH 01/2018 e GNCCRIM. As demais séries, notas técnicas, fontes originais e atualizações permanecem pendentes na [issue #270](https://github.com/Licitei/precedentes/issues/270). A notícia institucional de outubro/2026 alterna aprovação realizada e homologação futura; não resolve a identidade nem o estado dos documentos novos e não altera estes enunciados de 2011.
 
 | Número | Registro |
 | ---: | --- |
