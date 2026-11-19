@@ -7,12 +7,13 @@
 - **Situação na fonte:** Vigente
 - **Atualização informada pela fonte:** Não informada
 - **Fonte:** [TRT1 — Catálogo oficial de súmulas](https://www.trt1.jus.br/nova-sumulas)
+- **Capturas:** duas respostas HTTP 200 idênticas em 19/11/2026; 177406 bytes; SHA-256 `5a2c23299d4e2f0c16c12705666daaece0c01bc9c0a463b6172f4c056cce9e03`
 
 ## Informações do catálogo oficial
 
 Texto integral do verbete no catálogo oficial, incluindo ementa, data de publicação e vínculo da Biblioteca Digital. A situação reproduz a classe expressa do portal (vigente, cancelada ou efeitos\_modulados); os cancelamentos e as modulações também aparecem no título. O tachado das canceladas foi mantido em Markdown. A data de publicação não foi convertida em atualização individual. Duas leituras das quatro páginas apresentaram os mesmos 69 verbetes.
 
-No catálogo, o campo “Texto da súmula” repete a ementa. Em 04/11/2026 o PDF da [Biblioteca Digital](https://bibliotecadigital.trt1.jus.br/jspui/handle/1001/911789) e a [Resolução Administrativa nº 36/2017](https://bibliotecadigital.trt1.jus.br/jspui/handle/1001/911783) forneceram a redação completa do enunciado; essa redação foi incorporada abaixo, com atribuição à Biblioteca Digital, sem substituir a apresentação do catálogo. Os demais documentos vinculados da Biblioteca Digital e o teor das modulações de outras súmulas continuam pendentes de coleta e conciliação.
+No catálogo, o campo “Texto da súmula” repete a ementa. Em 04/11/2026 o PDF da [Biblioteca Digital](https://bibliotecadigital.trt1.jus.br/jspui/handle/1001/911789) e a [Resolução Administrativa nº 36/2017](https://bibliotecadigital.trt1.jus.br/jspui/handle/1001/911783) forneceram a redação completa do enunciado; essa redação foi incorporada abaixo, com atribuição à Biblioteca Digital, sem substituir a apresentação do catálogo. Em 19/11/2026 o PDF foi recapturado por HTTP, em duas respostas idênticas, e o texto conferido com a transcrição existente: os textos coincidem. Os documentos dos demais verbetes e o teor das modulações foram recuperados nas respectivas fichas; os inteiros teores dos atos de aprovação citados nos itens seguem como próximo passo, e as demais séries do tribunal permanecem pendentes de coleta e conciliação.
 
 ## Texto disponibilizado pela fonte
 

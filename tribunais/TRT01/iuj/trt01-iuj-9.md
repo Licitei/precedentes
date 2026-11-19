@@ -12,7 +12,7 @@
 
 Texto integral do catálogo de teses jurídicas, com número da tese, tema, processo, relatoria, ementa, publicação e vínculos. A identidade do registro usa a espécie e o tema do incidente; o número próprio da tese permanece no texto. A situação reproduz a classe expressa do portal, e o tachado da cancelada foi preservado. A data de publicação não foi convertida em atualização individual.
 
-Duas leituras apresentaram os mesmos 13 verbetes: cinco IRDR e oito IUJ. A página informa que não há tese firmada em IAC; isso não foi interpretado como inexistência de incidentes. Links antigos de consulta genérica, números e aparentes inconsistências foram mantidos sem reconstrução. Os documentos vinculados e as demais séries do tribunal continuam pendentes de coleta e conciliação.
+Duas leituras apresentaram os mesmos 13 verbetes: cinco IRDR e oito IUJ. A página informa que não há tese firmada em IAC; isso não foi interpretado como inexistência de incidentes. Links antigos de consulta genérica, números e aparentes inconsistências foram mantidos sem reconstrução. Em 19/11/2026 o item da Biblioteca Digital vinculado pelo catálogo ([Tese nº 03](https://bibliotecadigital.trt1.jus.br/jspui/handle/1001/836144)) foi reconsultado por HTTP e no navegador integrado: respondeu HTTP 302 com redirecionamento para o login interno da Biblioteca (/jspui/ldap-login), e o navegador registrou o encerramento da conexão na mesma página. O documento da tese não foi recuperado nesta coleta e a transcrição segue pendente; a ausência de acesso não comprova inexistência de publicação oficial. O inteiro teor do acórdão e as demais séries do tribunal também permanecem pendentes de coleta e conciliação.
 
 ## Texto disponibilizado pela fonte
 
