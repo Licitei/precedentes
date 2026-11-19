@@ -1,8 +1,8 @@
 # Cobertura
 
-**Última recontagem estrutural integral: 44.263 IDs únicos em 223 órgãos, sem duplicatas (19/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
+**Última recontagem estrutural integral: 44.295 IDs únicos em 227 órgãos, sem duplicatas (19/11/2026).** Contados os campos Identificador das fichas Markdown; documentos complementares com Registro relacionado ou Identificador de suporte ficam fora. Incluem-se históricos, cancelados, metadados e textos pendentes. A contagem não certifica completude textual, revisão visual ou vigência. As notas de deltas abaixo preservam o histórico das integrações.
 
-A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1286 IDs e +36 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/minutei-ai/precedentes/issues/239); não se certifica exaustividade nacional.
+A base de 04/11/2026 (`41c32e1335d42521ccac46bfb80df76c750c27f5`) tinha 42.977 IDs em 187 órgãos. O delta em relação a esses totais é +1318 IDs e +40 órgãos, sem remoção de IDs daquela base. Os totais de lotes abaixo são históricos e não devem ser somados novamente. A investigação de lacunas continua em [#239](https://github.com/Licitei/precedentes/issues/239); não se certifica exaustividade nacional.
 
 ## CFOAB — súmulas do Conselho Pleno e do Órgão Especial
 
@@ -122,6 +122,20 @@ A [página oficial](https://www.mpc.sc.gov.br/enunciados-mpc-sc/) imprime dois e
 Após conciliação com a main `dd3cfe1e4194ee6d3f3f19bbc7f8c3d0cab2c85b`, com 42.713 registros em 184 órgãos, MPGO 84, PGEGO 129, MPSC 25, ANCINE 20 e ANP 7, este lote acrescenta 2 registros e 1 órgão. O total pelo delta é **42.715 registros em 185 órgãos**. A consulta da ANVISA, sem identificador, permanece. Os PRs #170 e #175 já estão integrados e foram preservados na base; não foram somados novamente. As nove lacunas textuais do BNP permanecem: IRDR 6010, 6110, 6210, 6310, 6410, 6510, 6610 e 7010 do TJAM e IRDR 34 do TJRJ. A soma é focada e não repete a varredura global.
 
 Foram lidas visualmente as páginas 37 e 38 da edição de janeiro e a página 49 da edição de outubro, com a camada textual como apoio. Não houve OCR. O estudo citado no art. 2º de cada portaria não foi lido: os atalhos do sítio permanecem literais e os endereços consultados responderam 404 ou devolveram HTML da página inicial. A busca de páginas com “enunciado” e a busca de posts com “terceiro enunciado” não localizaram outro enunciado nesta consulta. Isso não fecha a série. Portarias de outro objeto, atas, notícias, orientações e normas apenas citadas não receberam identificador. Não se infere vigência, vinculação ou completude. Não há CPF, RG, matrícula ou URL de autenticação nos blocos publicados. Capturas e recibos ficam privados. O [índice da série](tribunais/MPCSC/en/) registra os recibos e os limites.
+
+## MPCs — CNPGC, MPCMG, MPCRS e MPCSP
+
+Entram quatro órgãos próprios de Ministério Público de Contas, com 32 registros: 20 enunciados do CNPGC (reunião de 19/05/2016), o Enunciado 01/2020 do MPCMG, sete Enunciados de Orientação Jurídica do MPCRS (01/2026 a 07/2026) e quatro Orientações Interpretativas do MPCSP. São distintos dos Tribunais de Contas correspondentes, do Ministério Público comum e dos demais MPCs.
+
+O CNPGC respondeu HTTP 200 ao sítio próprio em 19/11/2026, após o HTTP 406 (ModSecurity) registrado na issue #597; não houve CAPTCHA. A página “Enunciados” foi capturada duas vezes com 86.933 bytes e SHA-256 `91ffa79890f7895a6f5e83a8c704f6c0413ec4a2525b90030b0b66dd6c6bb77a` idênticos. A transcrição segue o sítio do CNPGC; a reprodução do MPC-MG foi usada apenas como cotejo e difere em espaçamento em dois itens e na pontuação do item 20. A página não imprime ata, resolução, número de ato ou data de publicação.
+
+O MPCMG tem uma página com “Total 01” e um PDF de uma página. O PDF imprime a redação do Enunciado 01/2020 com “sendo prevento o membro responsável pela demanda” e, em seguida, outra redação com a nota “(Redação dada pelo Assunto Administrativo nº 102/2024 – DOC 23/08/2024)”. As duas ficam no mesmo registro; não se infere qual vigora. O link “Download” (ZIP) não foi usado.
+
+O MPCRS publica um PDF de quatro páginas com sete enunciados, não dois como registrava a issue #599; a divergência fica registrada e prevalece a leitura da fonte. Cada ficha preserva a ementa, o corpo e as atas de referência. A Resolução MPC nº 19/2025, criadora da série, é citada e não recebeu identificador.
+
+O MPCSP tem quatro PDFs de 32, 34, 55 e 65 páginas, com 98 orientações internas (35 + 19 + 25 + 19) e os precedentes citados. O texto foi transcrito da camada textual, sem OCR; os sumários (páginas 1–3 do PDF de 2016 e página 1 dos demais) não foram transcritos; cabeçalhos, rodapés e o sinal “ǂ” foram normalizados. O PDF de 2016 não imprime ATO de aprovação; o Ato n.º 001/2015-CP criou a comissão. Os PDFs de 2023 e 2025 imprimem ATO 016/2023-CP, 17/2023-CP e 021/2025-CP.
+
+Cada documento tem URL, data de consulta (19/11/2026) e SHA-256 na ficha; os PDFs e as páginas foram capturados duas vezes. Capturas, PDFs e extrações permanecem privados; o lote público contém apenas Markdown. Não se inferem vigência, efeito vinculante, adoção individual ou exaustividade; atos, normas, processos e precedentes apenas citados não receberam IDs. Sobre a base de 19/11/2026, 44.182 IDs em 221 órgãos, este lote soma +32 registros e +4 órgãos; conciliado com o lote PGM-Rio/Maceió integrado na mesma janela: **44.295 IDs em 227 órgãos**.
 
 ## ANVISA — consulta de súmulas
 
